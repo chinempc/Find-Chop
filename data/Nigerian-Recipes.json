@@ -1,0 +1,2084 @@
+[
+  {
+    "recipe_name": "Nigerian Egusi Soup",
+    "author": "Ozoz Sokoh",
+    "description": "A creamy, nutty staple that varies from region to region.",
+    "servings": 6,
+    "prep_time": "15 mins",
+    "cook_time": "2 hrs",
+    "marinating_time": null,
+    "total_time": "2 hrs 15 mins",
+    "url": "https://www.seriouseats.com/nigerian-egusi-soup-5271598",
+    "categories": [
+      "Beef",
+      "Nigerian"
+    ],
+    "ingredients": [
+      {
+        "name": "1 pound (450g) bone-in or boneless beef chuck roast, cut into 2-inch pieces",
+        "category": "protein"
+      },
+      {
+        "name": "1 medium red onion (about 6 ounces; 175g), thinly sliced",
+        "category": "vegetable"
+      },
+      {
+        "name": "2 tablespoons ground crayfish (see note)",
+        "category": "herb_spice"
+      },
+      {
+        "name": "2 teaspoons (6g) Diamond Crystal kosher salt, plus more to taste; for table salt use half as much by volume or the same weight",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1/2 teaspoon Nigerian red dry pepper",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 medium red onion (about 6 ounces; 175g), roughly chopped",
+        "category": "vegetable"
+      },
+      {
+        "name": "1/2 fresh habanero or Scotch bonnet pepper, stemmed (optional)",
+        "category": "herb_spice"
+      },
+      {
+        "name": "2 cups (10 ounces; 300g) ground egusi seeds (see note)",
+        "category": "herb_spice"
+      },
+      {
+        "name": "3/4 cup unrefined red palm oil (5 1/4 ounces; 150g), such as Obiji",
+        "category": "oil"
+      },
+      {
+        "name": "Kosher salt and Nigerian red dry pepper",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 teaspoon ground crayfish (see note)",
+        "category": "herb_spice"
+      },
+      {
+        "name": "3 1/2 ounces (100g) fresh pumpkin leaves, amaranth greens, or kale, rinsed and finely chopped (see note)",
+        "category": "herb_spice"
+      },
+      {
+        "name": "3 1/2 ounces (100g) fresh waterleaf or spinach, rinsed and finely chopped (see note)",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 tablespoon finely chopped fresh or dried bitter leaf or fresh dandelion greens (see note)",
+        "category": "herb_spice"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "For the Stock: In a medium pot, combine beef, onion, crayfish, salt, red pepper, and 6 1/2 cups water and bring to a boil. Lower heat to maintain a simmer and cook until the stock is slightly reduced and the beef is mostly tender, about 45 minutes (the beef will tenderize further when cooked in the soup). Using a slotted spoon, remove beef and transfer to a medium heatproof bowl; set aside. Reserve stock (you should have about 5 1/2 cups).            "
+      },
+      {
+        "step_number": 2,
+        "instruction": "For the Egusi Soup: In a food processor or countertop blender, process onion, habanero pepper (if using), and 1/4 cup water until smooth. Scrape into a medium bowl and stir in the ground egusi seeds. Add water, 1 tablespoon at a time, until a thick, creamy paste has formed (paste should be viscous and hold its shape). Set aside.            "
+      },
+      {
+        "step_number": 3,
+        "instruction": "In a 4-quart saucepan, heat oil over low heat for 1 minute. Slowly add all of the reserved stock, along with the crayfish, and bring to a gentle simmer. Add paste, 1 heaped teaspoon at a time, to stock. Cover and cook, stirring and gently scraping the bottom of the pot occasionally, until all of the paste is firm and crumbly, about 25 minutes (patches of orange-red palm oil may bubble on top or around the sides).            "
+      },
+      {
+        "step_number": 4,
+        "instruction": "Add reserved beef and stir gently to break up the cooked paste into curds (stirring more or less affects the size of the curds). Season with salt and pepper to taste. Continue to cook until beef is heated through and tender, and some of the orange-red palm oil pools on top, about 10 minutes.            "
+      },
+      {
+        "step_number": 5,
+        "instruction": "Mound pumpkin leaves and waterleaf on top of soup without stirring, then cover and let steam until greens are wilted, about 2 minutes. Stir in wilted greens. Add bitter leaf and cook until soft, about 8 minutes. "
+      },
+      {
+        "step_number": 6,
+        "instruction": "Divide soup among warmed bowls and serve hot or at room temperature with eba, lafun, dodo, or cooked white rice.            "
+      }
+    ],
+    "image": "https://www.seriouseats.com/thmb/hx4DAscKBee9L2v3heNWiAL50wc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220425-Egusi-Maureen-Celestine-26-hero-1-608f079ef8ae4b8b840e61e44ecb766a.JPG",
+    "special_equipment": "Food processor or countertop blender",
+    "nutrition": {
+      "calories": "674 Calories",
+      "fat": "59g  Fat",
+      "carbs": "14g  Carbs",
+      "protein": "31g  Protein"
+    }
+  },
+  {
+    "recipe_name": "Akara (Nigerian Black-Eyed Pea Fritters)",
+    "author": "Ozoz Sokoh",
+    "description": "With their crunchy shells and creamy interiors, these black-eyed pea fritters are the quintessential Nigerian Saturday breakfast.",
+    "servings": 4,
+    "prep_time": "2 hrs",
+    "cook_time": "20 mins",
+    "marinating_time": null,
+    "total_time": "2 hrs 20 mins",
+    "url": "https://www.seriouseats.com/akara-5537111",
+    "categories": [
+      "Nigerian"
+    ],
+    "ingredients": [
+      {
+        "name": "1 cup dried black eyed peas (6 3/4 ounces; 190g), picked of any debris and rinsed",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1/4 large red onion (about 2 1/2 ounces; 75g), roughly chopped",
+        "category": "vegetable"
+      },
+      {
+        "name": "1/3 fresh habanero or Scotch bonnet pepper, stemmed",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 teaspoon (3g) Diamond Crystal kosher salt; for table salt use half as much by volume or the same weight",
+        "category": "herb_spice"
+      },
+      {
+        "name": "Vegetable oil, for frying (about 2 cups; 475ml)",
+        "category": "oil"
+      },
+      {
+        "name": "Soft white bread, for serving",
+        "category": "grain"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "In a medium bowl, cover peas with 2 inches cold water. Let soak at room temperature for at least 15 minutes and up to 1 hour (this short soaking time helps loosen the skins without overly softening the peas). "
+      },
+      {
+        "step_number": 2,
+        "instruction": "Drain soaked peas, then transfer to a countertop blender or food processor along with 1 quart (945ml) water. Pulse to slightly break up peas, about ten 1-second pulses. Pour into a medium bowl and let stand at room temperature for up to 30 minutes (skins will float to top as they separate from the peas).            Serious Eats / Amanda Suarez"
+      },
+      {
+        "step_number": 3,
+        "instruction": "Set a colander over a large bowl. Slowly pour soaking water into the colander while using a free hand to keep the peas in the soaking bowl; the goal is to pour off as many of the floating skins as possible while leaving the peas behind. Pick out any peas that landed in the colander and return them to the bowl, then discard skins and soaking water. Cover peas with water, and repeat process until peas are nearly free of skins (you may need to gently massage the peas with your hands to separate any stubborn skins).            "
+      },
+      {
+        "step_number": 4,
+        "instruction": "Transfer skinned peas to a clean colander, rinse under cool running water, then return to medium bowl. Add fresh water to cover and let stand at room temperature for 10 minutes (this will further soften the peas for blending). "
+      },
+      {
+        "step_number": 5,
+        "instruction": "Drain peas, then transfer to a countertop blender or food processor. Add 1/2 cup (120ml) water, onion, chile pepper, and salt. Blend, scraping down sides occasionally with a flexible spatula, until a smooth, thick paste has formed, about 3 minutes. Transfer paste to a medium bowl and whisk until light and fluffy, about 3 minutes.            "
+      },
+      {
+        "step_number": 6,
+        "instruction": "Line a rimmed baking sheet with paper towels. In a wok or Dutch oven, heat two inches of oil over medium-high heat to 350F (175C). Dip a heatproof spoon into the hot oil, scoop up roughly 1 tablespoon of batter, then carefully lower spoonful of batter into oil until batter is submerged and releases from spoon. It can be formed into a little football shape by molding the batter as it slides off the side of the spoon into the hot oil (rather than allowing the batter to spread as it slides off the spoon). Working quickly, repeat the process with 7 more scoops of batter (for a batch of 8). Fry, using a slotted spoon or spider to turn pieces halfway through, until akara are slightly puffed and golden brown on both sides, about 6 minutes. Transfer to prepared baking sheet to drain. "
+      },
+      {
+        "step_number": 7,
+        "instruction": "Return oil to 350F (175C), and repeat with remaining batter. Serve fritters warm with soft white bread.            "
+      }
+    ],
+    "image": "https://www.seriouseats.com/thmb/XatL3EHJ5m5Exlr_40wLsM_rhMM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220705-AkaraMaureen-Celestine-21-33c5c15fdedf4de49d6f0be2222e8666.JPG",
+    "special_equipment": "Countertop blender or food processor.",
+    "nutrition": {
+      "calories": "332 Calories",
+      "fat": "19g  Fat",
+      "carbs": "32g  Carbs",
+      "protein": "12g  Protein"
+    }
+  },
+  {
+    "recipe_name": "Nigerian Beef Suya (Spiced Grilled Skewers) Recipe",
+    "author": "Ozoz Sokoh",
+    "description": "Suya is Nigerian street food at its finest: Skewers of spiced, nutty, smoky, charred beef, served with onions, tomatoes, cilantro, lettuce, and lime juice.",
+    "servings": 12,
+    "prep_time": "30 mins",
+    "cook_time": "35 mins",
+    "marinating_time": "30 mins",
+    "total_time": "95 mins",
+    "url": "https://www.seriouseats.com/nigerian-beef-suya",
+    "categories": [
+      "Nigerian"
+    ],
+    "ingredients": [
+      {
+        "name": "1/2 cup (spooned) roasted groundnut/peanut butter powder (40g) (see note)",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 tablespoon (5g) ground ginger",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 tablespoon (8g) sweet paprika",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 tablespoon (10g) onion powder",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 tablespoon (9g) Diamond Crystal kosher salt; if using table salt, use half as much by volume",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 teaspoon (4g) garlic powder",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 teaspoon cayenne pepper",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1/2 teaspoon ground grains of selim or grains of paradise (optional; see note)",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1/2 teaspoon ground (African) cubeb pepper (see note)",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1/4 teaspoon ground cloves",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 pound (450g) beef flank or sirloin steak (see note)",
+        "category": "protein"
+      },
+      {
+        "name": "3 tablespoons (45ml) peanut oil, or neutral-flavored oil, such as canola",
+        "category": "oil"
+      },
+      {
+        "name": "Red onions, thinly sliced",
+        "category": "vegetable"
+      },
+      {
+        "name": "Tomatoes",
+        "category": "vegetable"
+      },
+      {
+        "name": "Limes, halved",
+        "category": "fruit"
+      },
+      {
+        "name": "Crisp lettuce",
+        "category": "vegetable"
+      },
+      {
+        "name": "Coriander leaves",
+        "category": "herb_spice"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "For the Yajin Kuli: In a small mixing bowl, combine groundnut/peanut butter powder, ground ginger, sweet paprika, onion powder, kosher salt, garlic powder, cayenne pepper powder, ground grains of selim (if desired), cubeb pepper, and ground cloves. Whisk to mix thoroughly, about 30 seconds. Set aside."
+      },
+      {
+        "step_number": 2,
+        "instruction": "For the Suya: Wrap beef tightly in plastic wrap and place on a plate or small baking sheet and set in the freezer until the beef is partially frozen and firm to the touch, 15 to 30 minutes. Using a sharp chef's knife or slicing knife, slice beef against the grain into 2-inch-long, 1-inch-wide, and 1/8-inch-thick strips. (The easiest and most efficient way to do this is to start by portioning the beef into 2-inch-wide by 1-inch-thick pieces, and then slicing those pieces crosswise into 1/8-inch-thick strips.)"
+      },
+      {
+        "step_number": 3,
+        "instruction": "Place sliced beef in large mixing bowl and drizzle peanut oil over it. Sprinkle 1/2 cup of yajin kuli over the beef and carefully toss and massage spice rub into beef until it is evenly coated. Cover, place in refrigerator, and allow beef to marinate for at least 30 minutes and up to 8 hours."
+      },
+      {
+        "step_number": 4,
+        "instruction": "Working with one piece of beef at a time, thread beef onto skewers, piercing each piece through twice to secure it, then bunching meat tightly together like an accordion. Continue threading beef onto skewer, making sure it's bunched tightly together, leaving no parts of the skewer exposed except for a 2-inch handle at the bottom and the pointy tip at the top. Repeat skewering process with remaining beef."
+      },
+      {
+        "step_number": 5,
+        "instruction": "If Using Skewer-Specific Grill Setup: Set up grill for skewers, making sure to adjust distance between bricks to the length of your skewers. Light one chimney full of charcoal. When all the charcoal is lit and covered with gray ash, pour out and spread the coals evenly in the channel between bricks."
+      },
+      {
+        "step_number": 6,
+        "instruction": "Place skewers directly over the hot coals, balancing them on top of the bricks, with the handles overhanging the bricks closest to you, and the tips balancing on the farther wall of bricks. Cook, turning frequently, until beef is lightly charred and a piece of beef looks cooked through when removed and cut in half, about 8 minutes. If flare-ups occur, move the skewers around as needed to get them away from the flames. Transfer to serving platter and let rest 2 to 3 minutes (see note)."
+      },
+      {
+        "step_number": 7,
+        "instruction": "If Using Conventional Charcoal or Gas Grill: Light 1 chimney full of charcoal. When all charcoal is lit and covered with gray ash, pour out and spread coals evenly over half of coal grate. Alternatively, set half the burners of a gas grill to high heat. Set cooking grate in place, cover grill, and allow to preheat for 5 minutes. Clean and oil grilling grate."
+      },
+      {
+        "step_number": 8,
+        "instruction": "Place skewers on grate and cook over direct heat, turning once, until charred on both sides and a piece of beef looks cooked through when removed and cut in half, about 8 minutes. Transfer to serving platter and let rest 2 to 3 minutes (see note)."
+      },
+      {
+        "step_number": 9,
+        "instruction": "For Serving: Serve with reserved yajin kuli, thinly sliced red onions, tomatoes, lime halves, crisp lettuce, and coriander leaves and tender stems."
+      }
+    ],
+    "image": "https://www.seriouseats.com/thmb/3UFS8-r5ayxHlEC7_DF2HzQ7D-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2020__10__20201015-Suya-sho-spaeth-1-78c58be723c944068b3f85c8ff4f9d23.jpg",
+    "special_equipment": "Charcoal or gas grill, bamboo skewers",
+    "nutrition": {
+      "calories": "145 Calories",
+      "fat": "7g  Fat",
+      "carbs": "8g  Carbs",
+      "protein": "14g  Protein"
+    }
+  },
+  {
+    "recipe_name": "Nigerian Pepper Soup",
+    "author": "Ozoz Sokoh",
+    "description": "A one-pot dish that's defined by the nutty, bitter, woodsy, and floral notes imparted by a mix of spices and herbs.",
+    "servings": 4,
+    "prep_time": "15 mins",
+    "cook_time": "75 mins",
+    "marinating_time": null,
+    "total_time": "90 mins",
+    "url": "https://www.seriouseats.com/nigerian-pepper-soup-5323040",
+    "categories": [
+      "Nigerian"
+    ],
+    "ingredients": [
+      {
+        "name": "8 urheri pods (grains of Selim), seeded",
+        "category": "herb_spice"
+      },
+      {
+        "name": "6 erhe seeds (calabash nutmeg), shelled",
+        "category": "herb_spice"
+      },
+      {
+        "name": "2 gbafilo seeds, shelled and roughly chopped",
+        "category": "herb_spice"
+      },
+      {
+        "name": "2 umilo seeds, shelled and roughly chopped",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1/2 teaspoon alligator pepper (grains of paradise)",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1/2 teaspoon uziza seeds",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 small chicken (about 2 pounds; 905g), cut into 2-inch pieces (see note)",
+        "category": "protein"
+      },
+      {
+        "name": "2 quarts (1.9L) cold water",
+        "category": "liquid"
+      },
+      {
+        "name": "2 teaspoons ground crayfish (see note)",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 teaspoon (4g) Diamond Crystal kosher salt, plus more to taste; for table salt, use half as much by volume or the same weight",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1/2 teaspoon Nigerian red dry pepper or cayenne pepper, plus more to taste",
+        "category": "herb_spice"
+      },
+      {
+        "name": "6 fresh lemongrass leaves, divided (see note)",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 large (or 2 small) fresh makrut lime leaves",
+        "category": "herb_spice"
+      },
+      {
+        "name": "2 to 3 sprigs fresh scent leaf, finely chopped, for garnish (see note)",
+        "category": "herb_spice"
+      },
+      {
+        "name": "Boiled yam, plantain, white sweet potatoes, or cooked white rice, for serving",
+        "category": "vegetable"
+      },
+      {
+        "name": "Unrefined West African red palm oil, for serving",
+        "category": "oil"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "For the Spice Mix: In a small stainless steel or cast iron skillet, combine urheri, erhe, gbafilo, umilo, alligator pepper, and uziza. Over medium-low heat, toast spices, stirring and swirling frequently, until fragrant, about 5 minutes. Let cool to room temperature, about 10 minutes. Transfer spices to a spice grinder and grind until a crumbly, coarse powder forms, 2 to 3 minutes. Empty into a small bowl; set aside. "
+      },
+      {
+        "step_number": 2,
+        "instruction": "For the Pepper Soup: In a large stockpot, combine chicken, water, ground crayfish, salt, cayenne pepper, half of the lemongrass, and prepared spice mix. Bring to a boil over high heat, then reduce heat to maintain a simmer. Simmer until chicken is cooked through and tender, but not falling off the bone, about 45 minutes (the time may vary depending on how the meat was cut).            "
+      },
+      {
+        "step_number": 3,
+        "instruction": "Add lime leaves and remaining lemongrass. Season with salt and cayenne pepper to taste. Let stand to allow flavors to develop, about 10 minutes.            "
+      },
+      {
+        "step_number": 4,
+        "instruction": "To serve, divide chicken between warmed soup bowls. Ladle broth on top, garnish with scent leaf, and serve with or alongside boiled yams, plantains, white sweet potatoes, or rice, and a small bowl of palm oil for dipping.            "
+      }
+    ],
+    "image": "https://www.seriouseats.com/thmb/93j0_6zLPZiwj22ac-ZYcDGOi9s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220425-peppersoup-Maureen-Celestine-23-hero-01-9e718e54b58b4b19af8b6f7011ca7b16.JPG",
+    "special_equipment": "Stainless steel or cast iron skillet, stockpot",
+    "nutrition": {
+      "calories": "191 Calories",
+      "fat": "11g  Fat",
+      "carbs": "2g  Carbs",
+      "protein": "21g  Protein"
+    }
+  },
+  {
+    "recipe_name": "Nigerian Jollof Rice",
+    "author": "Ozoz Sokoh",
+    "description": "Jollof rice, a seasoned tomatoey rice dish, is eaten at every party, Sunday lunch, and everything in between.",
+    "servings": 4,
+    "prep_time": "15 mins",
+    "cook_time": "75 mins",
+    "marinating_time": null,
+    "total_time": "90 mins",
+    "url": "https://www.seriouseats.com/nigerian-jollof-rice-recipe-6741471",
+    "categories": [
+      "Nigerian"
+    ],
+    "ingredients": [
+      {
+        "name": "1 pound (475g) plum tomatoes (about 3 medium tomatoes), cored and roughly chopped",
+        "category": "vegetable"
+      },
+      {
+        "name": "2 medium (7-ounce; 200g) red bell peppers or 2 red shepherd peppers (see note), stemmed, seeded, and roughly chopped",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 medium (8-ounce; 225g) red onion, roughly chopped",
+        "category": "vegetable"
+      },
+      {
+        "name": "1/4 of a Scotch bonnet or habanero pepper, stemmed and seeded",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 1/2 cups (355ml) Nigerian stock",
+        "category": "protein"
+      },
+      {
+        "name": "1/4 cup (60ml) peanut, vegetable, or other neutral oil, divided",
+        "category": "oil"
+      },
+      {
+        "name": "1 medium (8-ounce; 225g) red onion, thinly sliced, divided",
+        "category": "vegetable"
+      },
+      {
+        "name": "3 dried bay leaves",
+        "category": "herb_spice"
+      },
+      {
+        "name": "2 teaspoons Caribbean/Jamaican-style curry powder (see note), plus more if needed",
+        "category": "herb_spice"
+      },
+      {
+        "name": "2 teaspoons dried thyme",
+        "category": "herb_spice"
+      },
+      {
+        "name": "Kosher or sea salt and freshly ground black or white pepper",
+        "category": "herb_spice"
+      },
+      {
+        "name": "2 tablespoons (30g) tomato paste",
+        "category": "vegetable"
+      },
+      {
+        "name": "3 teaspoons (12g) unsalted butter, divided (see note)",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 1/2 cups (355ml) Nigerian stock",
+        "category": "protein"
+      },
+      {
+        "name": "2 cups (400g) converted long-grain rice or Golden Sella basmati, rinsed",
+        "category": "grain"
+      },
+      {
+        "name": "1 plum tomato (4-ounces; 120g), halved then sliced thinly crosswise into half-moons",
+        "category": "vegetable"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "For the Stew Base: In a blender jar, combine tomatoes, red pepper, onion, Scotch bonnet or habanero, and stock. Blend until a smooth puree forms, about 2 minutes. This will yield just shy of 5 cups (1.18L).            "
+      },
+      {
+        "step_number": 2,
+        "instruction": "Transfer the stew base to a 3-quart saucier or saucepan, cover partially with a lid to contain splatter, and bring to a boil over medium-high heat. Reduce the heat to medium-low and cook, stirring and scraping the bottom occasionally, until reduced by half (roughly about 2 1/2 cups; 590ml), about 30 minutes. Remove from heat and set aside.            "
+      },
+      {
+        "step_number": 3,
+        "instruction": "For the Jollof Rice: In a 4- or 5-quart pot or Dutch oven, heat 2 tablespoons (30ml) oil over medium heat until shimmering. Add half the sliced onion along with the bay leaves, curry powder, dried thyme, a large pinch of salt, and a large pinch of black or white pepper. Cook, stirring, until the mixture is fragrant and the onions soften slightly, about 3 minutes.            "
+      },
+      {
+        "step_number": 4,
+        "instruction": "Stir in tomato paste and 2 teaspoons (8g) butter. Cook, stirring continuously, until the tomato paste darkens, about 3 minutes. Stir in reserved stew base, cover partially with the lid to prevent splattering, and cook at a gentle simmer over medium-low heat until reduced by half, about 15 minutes.            "
+      },
+      {
+        "step_number": 5,
+        "instruction": "Stir in stock and bring to a boil over high heat. Season with salt and pepper; if the curry flavor is lacking, you can add more to taste (the curry powder should come through pleasantly but not be overpowering, though this is a question of personal taste).            "
+      },
+      {
+        "step_number": 6,
+        "instruction": "Stir in rice until evenly coated in sauce. Cover the pot with a double piece of foil or parchment paper, crimped down around the edges to seal, then top with lid (this will trap steam to lock in the flavor and aid cooking). Reduce the heat to the lowest possible and cook for 20 minutes, then uncover pot and gently stir rice to redistribute. Cover again and continue to cook until rice is just cooked through but still retains a firm bite and the liquid is mostly absorbed, about 15 minutes longer. If rice is undercooked and/or still wet, cover and cook 5 minutes longer.            "
+      },
+      {
+        "step_number": 7,
+        "instruction": "Stir in sliced tomato along with the remaining sliced onion and the remaining 1 teaspoon (4g) butter until butter is fully melted.            "
+      },
+      {
+        "step_number": 8,
+        "instruction": "Remove from the heat, cover, and let stand 10 minutes. Serve.            "
+      }
+    ],
+    "image": "https://www.seriouseats.com/thmb/UG-tX_LRPOZszzorA_-hFZdmwLg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220908-nigerian-jollof-rice-maureen-celestine-hero-no-spoon-29f44ba966324fff8149c05d0ecca7b7.JPG",
+    "special_equipment": "Blender, 3-quart saucier or saucepan, 4- or 5-quart pot or Dutch oven",
+    "nutrition": {
+      "calories": "258 Calories",
+      "fat": "12g  Fat",
+      "carbs": "35g  Carbs",
+      "protein": "6g  Protein"
+    }
+  },
+  {
+    "recipe_name": "Curry-Flavored Nigerian Stock",
+    "author": "Ozoz Sokoh",
+    "description": "This flavorful broth is an essential ingredient for many Nigerian dishes, including jollof rice, fried rice, stew, chicken curry, and more.",
+    "servings": 12,
+    "prep_time": "10 mins",
+    "cook_time": "80 mins",
+    "marinating_time": null,
+    "total_time": "90 mins",
+    "url": "https://www.seriouseats.com/nigerian-stock-recipe-6503517",
+    "categories": [
+      "Nigerian"
+    ],
+    "ingredients": [
+      {
+        "name": "One 2-ounce (60g) piece fresh ginger (about one 4-inch knob), peeled",
+        "category": "herb_spice"
+      },
+      {
+        "name": "4 medium cloves garlic (3/4 ounce; 20g), peeled",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 pound 12 ounces (about 800g) assorted beef and chicken bones (including backs and wings)",
+        "category": "protein"
+      },
+      {
+        "name": "1 medium red onion (8 ounces; 225g), roughly chopped",
+        "category": "vegetable"
+      },
+      {
+        "name": "1 medium green bell pepper (5 ounces; 140g), stemmed, seeded, and roughly chopped",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 habanero pepper, whole (optional)",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 1/2 tablespoons (22g) Nigerian/Caribbean-style curry powder",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 tablespoon dried thyme leaves",
+        "category": "herb_spice"
+      },
+      {
+        "name": "3 bay leaves",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1/2 teaspoon freshly ground black pepper",
+        "category": "herb_spice"
+      },
+      {
+        "name": "Sea or kosher salt",
+        "category": "herb_spice"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "In a blender, process ginger and garlic with 2 cups (475ml) water until thoroughly blended.            "
+      },
+      {
+        "step_number": 2,
+        "instruction": "In a large pot, combine beef and chicken bones with onion, bell pepper, and habanero (if using). Pour ginger-garlic mixture through a fine-mesh strainer into pot, pressing on solids to extract as much liquid as possible before discarding the fiber. Add curry powder, dried thyme, bay leaves, black pepper, and a large pinch of salt. Add enough additional water to just cover all solid ingredients (about 2 1/2 quarts; 2.5L); stir to combine.            "
+      },
+      {
+        "step_number": 3,
+        "instruction": "Cover and bring to a boil over high heat. Reduce heat to maintain a simmer and cook until the stock is aromatic and the vegetables are soft, about 45 minutes.            "
+      },
+      {
+        "step_number": 4,
+        "instruction": "Off heat, remove the bones with a pair of tongs; if theres meat on the bones, you can pull it off later as a snack, but otherwise discard the bones.            "
+      },
+      {
+        "step_number": 5,
+        "instruction": "Using a slotted spoon, transfer the vegetables and bay leaves to the blender and puree with 1 cup (225ml) of stock until homogenous and smooth. Pour pureed vegetables through a fine-mesh strainer back into stock, pressing on solids to extract as much liquid as possible; discard remaining vegetable matter trapped in the strainer. Stir well to combine.            "
+      },
+      {
+        "step_number": 6,
+        "instruction": "Use stock as desired, or store in an airtight container for up to 5 days in the refrigerator or 3 months in the freezer.            "
+      }
+    ],
+    "image": "https://www.seriouseats.com/thmb/fvji9cEOHxsq_ENranJj_XEYhoo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220829-Nigerian-Stock-Maureen-Celestine-hero-c05b1138066b44a99276e9f302a8fcba.jpg",
+    "special_equipment": "Large pot or Dutch oven",
+    "nutrition": {
+      "calories": "67 Calories",
+      "fat": "4g  Fat",
+      "carbs": "3g  Carbs",
+      "protein": "5g  Protein"
+    }
+  },
+  {
+    "recipe_name": "Nigerian Masa (Fermented Rice Cake Balls)",
+    "author": "Ozoz Sokoh",
+    "description": "Crunchy fermented rice cakes that can be served sweet or savory.",
+    "servings": 4,
+    "prep_time": "6 hrs 15 mins",
+    "cook_time": "15 mins",
+    "marinating_time": "2 hrs",
+    "total_time": "8 hrs 30 mins",
+    "url": "https://www.seriouseats.com/nigerian-masa-fermented-rice-cake-balls-recipe-6755252",
+    "categories": [
+      "Nigerian"
+    ],
+    "ingredients": [
+      {
+        "name": "1 cup (200g) uncooked tuwo rice or Thai jasmine rice (see note)",
+        "category": "grain"
+      },
+      {
+        "name": "Filtered water",
+        "category": "liquid"
+      },
+      {
+        "name": "1/4 cup (50g) cooked white rice",
+        "category": "grain"
+      },
+      {
+        "name": "1/2 small red or white onion (30g), roughly chopped (optional)",
+        "category": "vegetable"
+      },
+      {
+        "name": "2 tablespoons (30g) full-fat plain yogurt",
+        "category": "dairy"
+      },
+      {
+        "name": "2 tablespoons (30g) granulated sugar, divided",
+        "category": "sweetener"
+      },
+      {
+        "name": "1 1/2 teaspoons (5g) instant yeast",
+        "category": "leavening_agent"
+      },
+      {
+        "name": "1 1/2 teaspoons (5g) Diamond Crystal kosher salt; if using table salt, use half as much by volume or the same weight",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1/2 teaspoon (2g) baking powder",
+        "category": "leavening_agent"
+      },
+      {
+        "name": "Peanut or vegetable oil, for greasing",
+        "category": "oil"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "In a medium bowl, cover rice with room temperature water. Using your hands, vigorously swish rice until water turns cloudy, about 30 seconds. Using a fine-mesh strainer, drain rice, discarding the cloudy soaking water. Return drained rice to medium bowl and cover by at least 2 inches of filtered room temperature water. Cover bowl with plastic wrap and let soak at room temperature for at least 6 hours and up to 12 hours. The rice will whiten, almost double in volume, soften (breaking or crumbling when rubbed), and may have a light, sweet aroma.            "
+      },
+      {
+        "step_number": 2,
+        "instruction": "Set a fine mesh strainer over a medium bowl. Pour rice and soaking water into strainer and drain well; discard soaking water. In a high-powered blender jar, combine soaked rice, cooked rice, onion (if using), yogurt, 1 tablespoon sugar, yeast, salt, and 1/4 cup filtered room temperature water. Blend until a smooth, thick, and creamy batter forms, about 30 seconds.            "
+      },
+      {
+        "step_number": 3,
+        "instruction": "Pour rice batter into a large bowl and cover bowl with plastic wrap. To make sweet masa, ferment batter at warm room temperature (about 75F/24C) until puffy and domed on top with a sweet rice aroma, about 2 hours. If you desire a pronounced sour flavor, continue to ferment for 6 hours longer or overnight; the batter will rise and collapse (you will see a ring on the inside of the bowl showing the level of the batter before it collapsed) with a yeasty, beer-like aroma. For both short and long ferments, the starch from the rice may settle as it stands, creating a thin, watery layer on top, and a thicker layer at the bottom. If the consistency of the batter is too thin (slightly thicker than water), whisk in 1 tablespoon of all-purpose flour or rice flour at a time until the batter has the consistency of heavy cream.            "
+      },
+      {
+        "step_number": 4,
+        "instruction": "Uncover bowl and whisk in baking powder and remaining sugar until fully incorporated and to aerate the batter, 2 to 3 minutes. (Whisking the batter at this stage does not remove air, rather it ensures that the consistency of the batter is uniform.) Whisk in 2 tablespoons of filtered room temperature water and set aside. "
+      },
+      {
+        "step_number": 5,
+        "instruction": "Using a pastry brush, grease each well of the aebleskiver pan with oil (which should pool slightly in each well). Set pan over medium heat and heat until oil is shimmering. Add 2 tablespoons of batter to each well; there should be about 1/8-inch space at the top of each. As the batter cooks, the bottom firms up and forms a soft shell while the top will become dotted with bubbles. Cook until the edges begin to dry and form a cooked rim about 1/8-inch thick (the center will still be liquid), about 1 minute. Using a chopstick, skewer, or spoon, flip masa as they are ready, and cook for 1 to 2 minutes. (Flipping the masa while the center is liquid prevents the masa from having large holes.) Continue to cook, flipping about 3 to 4 times, until crunchy and deep golden brown all over, 4 to 5 minutes longer. Transfer masa to a serving plate or bowl and partially cover to keep warm.            Serious Eats / Maureen"
+      },
+      {
+        "step_number": 6,
+        "instruction": "Re-grease each well and repeat with remaining batter, reducing heat as needed if at risk of scorching. Allow masa to cool for 5 to 10 minutes. Serve warm with yaji and suya for a savory take or drizzle with honey and serve with fresh fruit alongside for a sweet version.            "
+      }
+    ],
+    "image": "https://www.seriouseats.com/thmb/wL-iTNLR9XNPMFsb465i98uSvR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20221108-NigerianMasaMaureen-Celestine-2700-d06fd5ea0a9f4486af4bd555e5810aec.JPG",
+    "special_equipment": "Fine-mesh strainer, high-powered blender, whisk, nonstick aebleskiver pan, pastry brush, chopstick or skewer",
+    "nutrition": {
+      "calories": "282 Calories",
+      "fat": "18g  Fat",
+      "carbs": "27g  Carbs",
+      "protein": "3g  Protein"
+    }
+  },
+  {
+    "recipe_name": "Nigerian Beef Stew",
+    "author": "Ozoz Sokoh",
+    "description": "A mainstay of many Nigerian meals, there are countless ways to make this stew. ",
+    "servings": 6,
+    "prep_time": "30 mins",
+    "cook_time": "3 hrs",
+    "marinating_time": null,
+    "total_time": "3 hrs 30 mins",
+    "url": "https://www.seriouseats.com/nigerian-beef-stew-recipe-6889635",
+    "categories": [
+      "Nigerian"
+    ],
+    "ingredients": [
+      {
+        "name": "One 2-ounce (60g) piece fresh ginger (about one 4-inch knob), peeled",
+        "category": "herb_spice"
+      },
+      {
+        "name": "4 medium cloves garlic (3/4 ounce; 20g), peeled",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 pound 12 ounces (about 800g) boneless or bone-in beef chuck",
+        "category": "protein"
+      },
+      {
+        "name": "1 medium red onion (8 ounces; 225g), roughly chopped",
+        "category": "vegetable"
+      },
+      {
+        "name": "1 medium green bell pepper (5 ounces; 140g), stemmed, seeded, and roughly chopped",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 habanero pepper, whole (optional)",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 1/2 tablespoons (22g) Nigerian/Caribbean-style curry powder",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 tablespoon dried thyme leaves",
+        "category": "herb_spice"
+      },
+      {
+        "name": "3 bay leaves",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1/2 teaspoon freshly ground black pepper",
+        "category": "herb_spice"
+      },
+      {
+        "name": "Kosher or sea salt",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 pound ripe plum tomatoes (450g; about 5 tomatoes), cored and roughly chopped",
+        "category": "vegetable"
+      },
+      {
+        "name": "1 large red onion (12 ounces; 340g), roughly chopped",
+        "category": "vegetable"
+      },
+      {
+        "name": "2 red bell peppers (about 1 pound/454g total), stemmed, seeded, and roughly chopped",
+        "category": "herb_spice"
+      },
+      {
+        "name": "3/4 cup (177ml) vegetable oil",
+        "category": "oil"
+      },
+      {
+        "name": "1 small red onion (4 ounces; 113g), thinly sliced",
+        "category": "vegetable"
+      },
+      {
+        "name": "Kosher or sea salt",
+        "category": "herb_spice"
+      },
+      {
+        "name": "2 bay leaves",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 tablespoon (15g) curry powder",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1/2 tablespoon (7g) dried thyme",
+        "category": "herb_spice"
+      },
+      {
+        "name": "3 tablespoons (45g) tomato paste",
+        "category": "vegetable"
+      },
+      {
+        "name": "1/2 teaspoon freshly ground black pepper",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 habanero pepper, poked all over with a paring knife (optional)",
+        "category": "herb_spice"
+      },
+      {
+        "name": "Cooked white rice and dodo, roasted yams, or other roasted root vegetables, for serving",
+        "category": "vegetable"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "For the Stock and Beef: In a blender, process ginger and garlic with 2 cups (472ml) water until thoroughly blended.            "
+      },
+      {
+        "step_number": 2,
+        "instruction": "In a large pot, combine beef chuck with onion, bell pepper, and habanero (if using). Pour ginger-garlic mixture through a fine-mesh strainer into pot, pressing on solids to extract as much liquid as possible before discarding the fiber. Add curry powder, dried thyme, bay leaves, black pepper, and a large pinch of salt. Add enough additional water to just cover all solid ingredients (about 2 1/2 quarts; 2.5L); stir to combine.            "
+      },
+      {
+        "step_number": 3,
+        "instruction": "Cover and bring to a boil over high heat. Reduce heat to maintain a simmer and cook until the stock is aromatic and the beef is tender, about 1 hour 30 minutes.            Serious Eat / Maureen Celestine"
+      },
+      {
+        "step_number": 4,
+        "instruction": "Using tongs, transfer beef to a platter and set aside.            "
+      },
+      {
+        "step_number": 5,
+        "instruction": "Using a slotted spoon, transfer the vegetables and bay leaves to the blender and puree with 1 cup (225ml) of stock until homogenous and smooth. Pour pureed vegetables through a fine-mesh strainer back into stock, pressing on solids to extract as much liquid as possible; discard remaining vegetable matter trapped in the strainer. Stir well to combine, then set stock aside.            "
+      },
+      {
+        "step_number": 6,
+        "instruction": "For the Stew Base: Heat oven to 400F (205C). Cut cooked beef into roughly 2-inch chunks; feel free to leave any bones in. Arrange beef in an even layer on a rimmed baking sheet and roast until browned all over, about 15 minutes. Set aside."
+      },
+      {
+        "step_number": 7,
+        "instruction": "In a blender or food processor, combine tomatoes, red onion, bell peppers, and 2 cups (472ml) reserved stock. Blend or process until a smooth puree forms.            "
+      },
+      {
+        "step_number": 8,
+        "instruction": "Scrape vegetable puree into a 3-quart stainless steel saucepan or saucier. Cover partially with a lid to contain splatter and cook at a gentle simmer, stirring occasionally, until reduced by half, 30 to 45 minutes. Scrape stew base into a heatproof container, cover, and set aside. Wash out pot.            "
+      },
+      {
+        "step_number": 9,
+        "instruction": "For the Stew: In the cleaned 3-quart pot, heat the vegetable oil over medium heat until shimmering, then add sliced onion along with a large pinch of salt and cook, stirring, until slightly softened, about 4 minutes. Add the bay leaves, curry powder, and dried thyme, and cook until fragrant, about 2 minutes longer.            "
+      },
+      {
+        "step_number": 10,
+        "instruction": "Stir in the tomato paste and continue to cook until tomato paste has lost its bright red color, about 5 minutes; lower heat if necessary to prevent scorching.            "
+      },
+      {
+        "step_number": 11,
+        "instruction": "Stir in the reserved stew base along with 2 cups (472ml) reserved stock, black pepper, and habanero (if using), and simmer until the stew base thickens and oil pools on the surface, about 20 minutes. Season with salt.            "
+      },
+      {
+        "step_number": 12,
+        "instruction": "Stir in the beef and continue to simmer until the beef is warmed through, about 20 minutes. Remove from heat and season with additional salt, if desired.            "
+      },
+      {
+        "step_number": 13,
+        "instruction": "Serve with white rice and dodo, yam, or other root vegetables.            "
+      }
+    ],
+    "image": "https://www.seriouseats.com/thmb/f2Y_JaCs5_NrM-kRkfgAa9zUjdE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20221207-Beef-Stew-Maureen-Celestine-hero-df7b4031993c48a7ace23550ebc66ad7.jpg",
+    "special_equipment": "blender, 3-quart stainless steel saucepan or saucier",
+    "nutrition": {
+      "calories": "674 Calories",
+      "fat": "59g  Fat",
+      "carbs": "14g  Carbs",
+      "protein": "31g  Protein"
+    }
+  },
+  {
+    "recipe_name": "Dodo (Nigerian Plantains) Recipe",
+    "author": "Ozoz Sokoh",
+    "description": "The sweet, caramelized flavor and versatility can't be beat.",
+    "servings": 2,
+    "prep_time": "5 mins",
+    "cook_time": "20 mins",
+    "marinating_time": null,
+    "total_time": "25 mins",
+    "url": "https://www.seriouseats.com/dodo-nigerian-plantains-recipe-5235320",
+    "categories": [
+      "Plantains",
+      "Nigerian"
+    ],
+    "ingredients": [
+      {
+        "name": "2 large ripe yellow plantains with black spots (about 1 1/4 pounds; 510g), peeled",
+        "category": "vegetable"
+      },
+      {
+        "name": "3/4 teaspoon Diamond Crystal kosher salt; for table salt, use about half as much by volume",
+        "category": "herb_spice"
+      },
+      {
+        "name": "2 quarts (1.9L) vegetable oil, for frying",
+        "category": "oil"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Using a sharp knife, cut plantains into the shape and size of your choosing: -inch dice, 1/2-inch thick rounds, or 1/3-inch thick slices on the bias. "
+      },
+      {
+        "step_number": 2,
+        "instruction": "Place plantains in a large bowl, sprinkle with salt, and toss to coat; set aside.            "
+      },
+      {
+        "step_number": 3,
+        "instruction": "Adjust oven rack to middle position and preheat oven to 200F (95C). Line a rimmed baking sheet with paper towels. In a Dutch oven, heat oil over medium-high heat to 350F (175C). Add half of the plantains and fry, stirring occasionally, until lightly caramelized and golden brown, 8 to 10 minutes. Using a slotted spoon or spider, transfer plantains to prepared baking sheet, then transfer to oven to keep warm.            "
+      },
+      {
+        "step_number": 4,
+        "instruction": "Return oil to 350F (175C) and repeat with remaining plantains. Transfer plantains to a bowl and serve.            "
+      }
+    ],
+    "image": "https://www.seriouseats.com/thmb/LKdCICZwKCPCognzZn1lIF_t9Xk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Dodo-Recipe-Maureen-Celestine-Step-hero-b1b607e6503049aaa128df160569a261.JPG",
+    "special_equipment": null,
+    "nutrition": {
+      "calories": "307 Calories",
+      "fat": "18g  Fat",
+      "carbs": "40g  Carbs",
+      "protein": "1g  Protein"
+    }
+  },
+  {
+    "recipe_name": "Nigerian Peanut Stew\n",
+    "author": "Ozoz Sokoh",
+    "description": "This rich hearty stew is my love language.",
+    "servings": 6,
+    "prep_time": "30 mins",
+    "cook_time": "2 hrs 30 mins",
+    "marinating_time": "60 mins",
+    "total_time": "4 hrs",
+    "url": "https://www.seriouseats.com/west-african-peanut-stew-recipe-8646688",
+    "categories": [
+      "Comfort Food",
+      "Nigerian"
+    ],
+    "ingredients": [
+      {
+        "name": "1 cup (5 1/2 ounces; 160g) ounces raw shelled red- skin peanuts",
+        "category": "nut"
+      },
+      {
+        "name": "5 teaspoons (15g) Diamond Crystal kosher salt, divided; for table salt use half as much by volume",
+        "category": "herb_spice"
+      },
+      {
+        "name": "7 cups (1.65L) homemade chicken stock or store-bought low-sodium chicken broth, divided",
+        "category": "protein"
+      },
+      {
+        "name": "2 medium red onions (1 pound; 453g); 1 onion roughly chopped, 1/2 onion cut into 1/2-inch pieces, and the remaining 1/2 onion halved and thinly sliced, divided",
+        "category": "vegetable"
+      },
+      {
+        "name": "1 medium red bell pepper (175g), chopped",
+        "category": "herb_spice"
+      },
+      {
+        "name": "2 medium plum tomatoes (8 ounces; 225g), chopped",
+        "category": "vegetable"
+      },
+      {
+        "name": "1 Scotch bonnet or habanero pepper, stemmed and cut in half (optional)",
+        "category": "herb_spice"
+      },
+      {
+        "name": "One 4-inch piece fresh ginger (about 2 ounces; 60g) , peeled and grated",
+        "category": "herb_spice"
+      },
+      {
+        "name": "4 medium cloves garlic, minced",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 tablespoon dried thyme",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1/2 teaspoon freshly ground black pepper",
+        "category": "herb_spice"
+      },
+      {
+        "name": "5 tablespoons (75ml) peanut oil, divided",
+        "category": "oil"
+      },
+      {
+        "name": "1 pound (about 450g) boneless,skinless chicken thighs, cut into 2-inch pieces",
+        "category": "protein"
+      },
+      {
+        "name": "1 pound (about 450g) boneless beef chuck, cut into 1 1/2-inch pieces",
+        "category": "protein"
+      },
+      {
+        "name": "2 leaf bay leaves",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 teaspoon Nigerian dry red pepper flakes (optional)",
+        "category": "herb_spice"
+      },
+      {
+        "name": "2 medium carrots, peeled and cut into coins or chunks (about 1 cup)",
+        "category": "vegetable"
+      },
+      {
+        "name": "1 pound baby bok choy, leaves pulled apart and rinsed",
+        "category": "herb_spice"
+      },
+      {
+        "name": "Plain rice, or Dodo (fried Nigerian plantains), or flatbreads",
+        "category": "vegetable"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "In a colander, rinse peanuts well under running cold tap water. Drain and transfer to a large heat-proof bowl and add 1 teaspoon kosher salt, then cover with boiling water by about 2 inches. Cover loosely and let soak at room temperature until all the peanuts sink, have absorbed some water, and the liquid is cooler, at least 1 hour or up to 12 hours. Serious Eats / Vy Tran"
+      },
+      {
+        "step_number": 2,
+        "instruction": "Adjust the oven rack to middle position and heat the oven to 350F (175C). Lay a clean kitchen towel over a rimmed baking sheet. Drain peanuts under running water, rinse well and transfer the peanuts to the kitchen towel-lined baking sheet and pat to dry.            Serious Eats / Vy Tran"
+      },
+      {
+        "step_number": 3,
+        "instruction": "Remove the towel and roast the peanuts on the rimmed baking sheet, stirring the peanuts 2 or 3 times during roasting, until lightly golden brown and fragrant, about 25 minutes. The nuts will have started to brown and you'll hear an occasional pop and crackle. Remove from oven and let cool slightly, about 10 minutes. (There will be more popping and crackling as they cool and shrink a touch.)            Serious Eats / Vy Tran"
+      },
+      {
+        "step_number": 4,
+        "instruction": "Once cooled for 10 minutes, remove the peanut skins by using a clean kitchen towel to rub the peanuts vigorously until the skins come off in bits. Transfer to a colander set over a large bowl or tray and shake until most of the skins are removed. Serious Eats / Vy Tran"
+      },
+      {
+        "step_number": 5,
+        "instruction": "Discard the skins and transfer the peanuts to a blender jar and add 1 cup broth. Blend on high speed until creamy, about 1 minute (some grit may remain). You will have about 2 cups of the pureed peanuts; transfer to a large bowl and set aside. Wash the blender.            Serious Eats / Vy Tran"
+      },
+      {
+        "step_number": 6,
+        "instruction": "In the now-clean blender, make the stew mix by blending the roughly chopped red onion, bell pepper; tomatoes, half of Scotch bonnet or habanero, if using, and 1 cup broth. Blend on high speed until finely puréed, about 30 seconds; set aside. Serious Eats / Vy Tran"
+      },
+      {
+        "step_number": 7,
+        "instruction": "In a large bowl, combine 1 tablespoon salt, ginger, garlic, thyme, pepper, and 1 tablespoon oil. Add the chicken and beef and rub well to season the meat; set aside.            Serious Eats / Vy Tran"
+      },
+      {
+        "step_number": 8,
+        "instruction": "In a large, heavy-bottomed pot or Dutch oven, heat 2 tablespoons (30ml) oil over medium-high heat until shimmering. Add the sauced meat, and cook, turning occasionally, until browned all over, 10 to 15 minutes. Use a slotted spoon to transfer meat and any bits of ginger and garlic to a bowl.            Serious Eats / Vy Tran"
+      },
+      {
+        "step_number": 9,
+        "instruction": "Add the remaining 2 tablespoons (30ml) oil to the pot and heat over medium-high heat until shimmering. Add the onion cut into 1/2 inch pieces, bay leaves, and 1 teaspoon salt and cook, stirring until onion softens, 3 to 4 minutes. Add 2 cups broth, stirring with a wooden spoon to remove any bits from the bottom of the pot. Add the remaining Scotch bonnet or habanero half, if using, and bring to a boil, uncovered. Stir in the puréed stew mix, and bring to a boil before reducing heat as needed to maintain a simmer and cook, partly covered, for 30 minutes.            Serious Eats / Vy Tran"
+      },
+      {
+        "step_number": 10,
+        "instruction": "Carefully remove 1 cup of the stew broth and whisk into the reserved peanut paste until well combined. Return the mixture to the pot, stir well, and bring to a boil before returning the meat to the pot, add 3 cups of broth, and season with the remaining 1 teaspoon salt. Stir well, and return to a boil before reducing heat to low and simmer, partially covered, adjusting heat as needed to maintain simmer and stirring often, until meat is tender, 60 to 90 minutes. Taste and add dried pepper to taste, if desired.            Serious Eats / Vy Tran"
+      },
+      {
+        "step_number": 11,
+        "instruction": "Add carrots, stir, and continue to cook until the carrots are just softened, about 8 minutes. Add bok choy and the sliced onion. Cover and cook until the bok choy leaves soften and begin to wilt, 2 to 3 minutes. Remove the lid, stir and cook until the stew is thick and creamy and onion is just softened, about 5 minutes. Let sit off heat to cool and thicken slightly, about 10 minutes. Adjust the stew's consistency with additional broth to desired texture, if needed, and season with salt and pepper to taste. Remove the pepper half and serve soup with plain rice, Nigerian plantains, or your preferred flatbread, I love Indian rotis and naans.            Serious Eats / Vy Tran"
+      }
+    ],
+    "image": "https://www.seriouseats.com/thmb/p68qtlO1JylyEL1SI-a97x87DTY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20240510-SEA-NigerianPeanutStew-VyTran-hero-d69f7c4884494774a56e7517fa38f6d2.jpg",
+    "special_equipment": "Colander or sieve, Large pot or Dutch oven, Blender",
+    "nutrition": {
+      "calories": "561 Calories",
+      "fat": "32g  Fat",
+      "carbs": "28g  Carbs",
+      "protein": "44g  Protein"
+    }
+  },
+  {
+    "recipe_name": "Nigerian Lafun",
+    "author": "Ozoz Sokoh",
+    "description": "A slightly sweet and sour swallow made with fermented cassava flour that's served alongside soups and stews.",
+    "servings": 4,
+    "prep_time": "5 mins",
+    "cook_time": "20 mins",
+    "marinating_time": null,
+    "total_time": "25 mins",
+    "url": "https://www.seriouseats.com/nigerian-lafun-recipe-6834099",
+    "categories": [
+      "Nigerian"
+    ],
+    "ingredients": [
+      {
+        "name": "2 1/2 cups (8.8 ounces; 250g) lafun flour (see note)",
+        "category": "grain"
+      },
+      {
+        "name": "4 cups (960ml) boiling water, divided, plus more as needed",
+        "category": "liquid"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Using a fine mesh strainer, sift lafun flour into a 3-quart saucier or saucepan; discard any fibrous matter left in the strainer. Add 2 cups (480ml) boiling water and, using a wooden spoon, stir until well combined and a rough dough has formed, about 2 minutes.            "
+      },
+      {
+        "step_number": 2,
+        "instruction": "Set saucepan over medium-low heat, and cook, stirring and scraping bottom in a circular motion, until no lumps remain, 1 to 2 minutes. Add 1 cup (240ml) boiling water and stir until dough changes from creamy and opaque to more translucent, 5 to 10 minutes.            "
+      },
+      {
+        "step_number": 3,
+        "instruction": "Reduce heat to low. Spread dough roughly across bottom of saucepan, poke 3 or 4 1-inch-wide holes in it with a wooden spoon, and pour remaining 1 cup (240ml) boiling water on top of dough. Immediately cover and cook until most, if not all, of the water is absorbed, about 3 minutes.            "
+      },
+      {
+        "step_number": 4,
+        "instruction": "Uncover and continue to cook, stirring constantly, until lafun is soft yet firm, smooth, and stretchy, about 3 minutes (it should not be runny or sticky). If it's too loose, add sifted lafun flour, 1/4 cup at a time, until lafun is desired consistency. If it's too firm, add boiling water, 1 tablespoon at a time, until lafun is desired consistency. "
+      },
+      {
+        "step_number": 5,
+        "instruction": "To serve, dip a spoon into water and scoop 1/2 cup portions onto individual plates or bowls. Serve lafun immediately with Nigerian soups like egusi.            "
+      }
+    ],
+    "image": "https://www.seriouseats.com/thmb/t99ghZ_grhAAs9ZCbO2FxDdcDnc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20221130NigerianLafunMaureenCelestine18of21_1-53c60d7e9c164792932231c175d3a52e.JPG",
+    "special_equipment": "3-quart saucier or saucepan",
+    "nutrition": {
+      "calories": "100 Calories",
+      "fat": "0g  Fat",
+      "carbs": "24g  Carbs",
+      "protein": "1g  Protein"
+    }
+  },
+  {
+    "recipe_name": "Nigerian Fried Rice",
+    "author": "Ozoz Sokoh",
+    "description": "Nigerian fried rice looks, feels, and eats like a dish that's a cross between Indian pilau and Chinese fried rice. ",
+    "servings": 6,
+    "prep_time": "15 mins",
+    "cook_time": "45 mins",
+    "marinating_time": null,
+    "total_time": "60 mins",
+    "url": "https://www.seriouseats.com/nigerian-fried-rice-recipe-6503713",
+    "categories": [
+      "Nigerian"
+    ],
+    "ingredients": [
+      {
+        "name": "2 cups converted rice (13 1/4 ounces; 375g), such as Uncle Ben's Original or golden sella basmati",
+        "category": "grain"
+      },
+      {
+        "name": "3 1/2 cups (825ml) Nigerian-style stock, divided, plus more as needed",
+        "category": "protein"
+      },
+      {
+        "name": "2 tablespoons (30ml) virgin coconut oil or vegetable oil",
+        "category": "oil"
+      },
+      {
+        "name": "1 medium carrot (2 3/4 ounces; 75g), cut into 1/4-inch dice",
+        "category": "vegetable"
+      },
+      {
+        "name": "1 small red or white onion (2 1/4 ounces; 60g), cut into 1/4-inch dice",
+        "category": "vegetable"
+      },
+      {
+        "name": "1 1/2 ounces (45g) green beans, stem ends trimmed and cut into 1/4-inch-thick rounds",
+        "category": "vegetable"
+      },
+      {
+        "name": "Kosher salt",
+        "category": "herb_spice"
+      },
+      {
+        "name": "2 scallions, ends trimmed, white and green parts separated, and each thinly sliced crosswise, divided",
+        "category": "vegetable"
+      },
+      {
+        "name": "1/2 large red bell pepper (2 3/4 ounces; 75g), stemmed, seeded, and cut into 1/4-inch dice",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1/2 medium green bell pepper (2 1/4 ounces; 60g), stemmed, seeded, cut into 1/4-inch dice, divided",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1/4 cup (60g) drained canned whole kernel sweet corn",
+        "category": "vegetable"
+      },
+      {
+        "name": "2 teaspoons Nigerian-style curry powder (see note)",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 teaspoon dried thyme",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1/4 teaspoon freshly ground black pepper, plus more to taste",
+        "category": "herb_spice"
+      },
+      {
+        "name": "2 dried bay leaves",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1/2 cup (120ml) full-fat coconut milk",
+        "category": "liquid"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "In a large bowl, cover rice by 2 inches of cool water. Using your hands, vigorously swish rice until water turns cloudy, about 30 seconds. Using a fine-mesh strainer, drain the rice, discarding the cloudy soaking water. Refill the bowl with cool water, and repeat rinsing and draining process until rinsing water runs clear. Transfer drained rice to a small bowl.            "
+      },
+      {
+        "step_number": 2,
+        "instruction": "Add 2 1/2 cups stock to a medium pot and bring to a boil over high heat. Stir in drained rice. Return to a boil, then reduce heat to a very gentle simmer. Cover and cook until stock is absorbed and rice is half cooked, about 10 minutes. Transfer rice to a rimmed baking sheet, spread into an even layer, and let cool for 10 to 15 minutes. Using a fork, fluff rice to separate grains and set aside.            "
+      },
+      {
+        "step_number": 3,
+        "instruction": "In a sauté pan, heat oil over medium heat until shimmering. Add carrots, onion, and green beans, season with salt, and cook until vegetables are coated in oil and shiny, about 2 minutes.            "
+      },
+      {
+        "step_number": 4,
+        "instruction": "Add sliced scallion whites, red bell pepper, half of the green pepper, and corn. Cook vegetables until slightly softened, about 2 minutes. Stir in curry powder, thyme, black pepper, and bay leaves.            "
+      },
+      {
+        "step_number": 5,
+        "instruction": "Add half-cooked rice and stir gently to combine. Add coconut milk and remaining 1 cup stock. Return to a boil, then reduce heat to a simmer. Cover and cook until rice is cooked through, about 12 minutes. Season with salt and pepper to taste. If rice is too dry and grains are not soft or cooked through, add stock in 1/4 cup increments, and continue to cook, covered, until rice is soft and cooked through.            "
+      },
+      {
+        "step_number": 6,
+        "instruction": "Stir in sliced scallion greens and remaining green bell pepper, cover, and cook until pepper brightens and softens slightly, about 2 minutes. Serve immediately.            "
+      }
+    ],
+    "image": "https://www.seriouseats.com/thmb/SIgX6c88ymaYgdVv0sILN2UBwmk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220908-nigerian-fried-rice-maureen-celestine-Hero-896bf29d24dc4f349bbaf41c4df042e0.JPG",
+    "special_equipment": null,
+    "nutrition": {
+      "calories": "179 Calories",
+      "fat": "10g  Fat",
+      "carbs": "19g  Carbs",
+      "protein": "4g  Protein"
+    }
+  },
+  {
+    "recipe_name": "Puff Puff (Nigerian Fried Yeasted Dough)",
+    "author": "Ozoz Sokoh",
+    "description": "Soft and chewy balls of fried yeasted dough seasoned with nutmeg.",
+    "servings": 10,
+    "prep_time": "55 mins",
+    "cook_time": "30 mins",
+    "marinating_time": null,
+    "total_time": "85 mins",
+    "url": "https://www.seriouseats.com/puff-puff-5537120",
+    "categories": [
+      "Nigerian"
+    ],
+    "ingredients": [
+      {
+        "name": "13 ounces all-purpose flour (360g; about 2 3/4 cups)",
+        "category": "grain"
+      },
+      {
+        "name": "7 ounces sugar (200g; 1 cup)",
+        "category": "sweetener"
+      },
+      {
+        "name": "4 teaspoons (13g) fast-acting yeast",
+        "category": "leavening_agent"
+      },
+      {
+        "name": "1/4 teaspoon freshly grated nutmeg",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 teaspoon (5ml) vanilla extract",
+        "category": "herb_spice"
+      },
+      {
+        "name": "2 quarts (1.9L) vegetable or other neutral oil, for frying",
+        "category": "oil"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "In a large bowl, thoroughly whisk together flour, sugar, yeast, and nutmeg, about 1 minute. In a small bowl, combine vanilla extract with 2 cups (475ml) lukewarm water. "
+      },
+      {
+        "step_number": 2,
+        "instruction": "In the center of the flour mixture, make a well about 4 inches wide. Pour vanilla water into well, and, using a wooden spoon, gradually stir flour into the water until a thick, sticky batter has formed and no lumps remain, about 5 minutes (batter should have the same consistency as cake batter with a few bubbles). Cover bowl loosely with plastic wrap or a clean, damp kitchen towel, and let sit at warm room temperature (75F/24C) until roughly doubled in size, about 45 minutes. "
+      },
+      {
+        "step_number": 3,
+        "instruction": "Line a rimmed baking sheet with paper towels. In a wok or large Dutch oven, heat oil over medium-high heat to 330F (165C). Using a 1-tablespoon cookie scoop, dip scoop in hot oil, then scoop a 1-tablespoon portion of batter and carefully add to oil, dropping portion from as close to the oil's surface as possible to minimize splashing. (Alternatively, using two spoons dipped in the hot oil, scoop roughly 1-tablespoon of batter onto first spoon, and, using second spoon, gently form into a round shape, then carefully release into hot oil). Working quickly, repeat process until wok is full but not overcrowded. Fry puff puff, using a spider or slotted spoon to turn them as they cook, until puffed and golden brown on all sides, about 6 minutes. Transfer puff puff to prepared baking sheet.            "
+      },
+      {
+        "step_number": 4,
+        "instruction": "Return oil to 330F (165C) and repeat frying with remaining batter, continuing to work in batches. Transfer puff puff to a serving bowl and serve hot, warm, or at room temperature. Puff puff can be eaten on its own, tossed in spiced sugar, or with a dip (see recipe headnote for more serving ideas). "
+      }
+    ],
+    "image": "https://www.seriouseats.com/thmb/Nu0tR17GqQjiNALnk4WWKHAIlbI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220705-PuffPuffMaureen-Celestine-21-b365ebc25e3d4dde978c02c19cc5b2cd.JPG",
+    "special_equipment": "Rimmed baking sheet, spider skimmer or slotted spoon, wok or large Dutch oven, instant-read thermometer, 1-tablespoon cookie scoop (optional).",
+    "nutrition": {
+      "calories": "339 Calories",
+      "fat": "19g  Fat",
+      "carbs": "40g  Carbs",
+      "protein": "4g  Protein"
+    }
+  },
+  {
+    "recipe_name": "Nigerian Chin Chin",
+    "author": "Ozoz Sokoh",
+    "description": "Sweet, crunchy cookie-like bites of fried dough that are great for snacking. ",
+    "servings": 12,
+    "prep_time": "20 mins",
+    "cook_time": "30 mins",
+    "marinating_time": null,
+    "total_time": "50 mins",
+    "url": "https://www.seriouseats.com/nigerian-chin-chin-recipe-6499963",
+    "categories": [
+      "Desserts",
+      "Nigerian"
+    ],
+    "ingredients": [
+      {
+        "name": "5 ounces (150ml) whole milk",
+        "category": "dairy"
+      },
+      {
+        "name": "1 teaspoon (5ml) vanilla extract",
+        "category": "herb_spice"
+      },
+      {
+        "name": "14.1 ounces all-purpose flour (400g; 3 cups plus 2 tablespoons)",
+        "category": "grain"
+      },
+      {
+        "name": "3.5 ounces sugar (100g; 1/2 cup)",
+        "category": "sweetener"
+      },
+      {
+        "name": "1 1/2 teaspoons (6g) baking powder",
+        "category": "leavening_agent"
+      },
+      {
+        "name": "1 teaspoon (3g) Diamond Crystal kosher salt; for table salt use half as much by volume or the same weight",
+        "category": "herb_spice"
+      },
+      {
+        "name": "2 teaspoons (4g) freshly grated lemon or orange zest",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1/2 teaspoon freshly grated nutmeg",
+        "category": "herb_spice"
+      },
+      {
+        "name": "3.6 ounces unsalted butter (100g; 7 tablespoons), cold",
+        "category": "herb_spice"
+      },
+      {
+        "name": "2 quarts (1.9L) vegetable oil, for frying",
+        "category": "oil"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "In a small bowl, whisk together milk and vanilla extract until well combined and set aside.            "
+      },
+      {
+        "step_number": 2,
+        "instruction": "In a large bowl, whisk together flour, sugar, baking powder, salt, zest, and nutmeg until thoroughly combined. Using the large holes of a box grater, grate butter over flour mixture. Using your hands, toss butter with flour mixture until butter is evenly distributed.            "
+      },
+      {
+        "step_number": 3,
+        "instruction": "In the center of the butter-flour mixture, make a well about 4-inches wide. Slowly pour milk mixture into the well. Using a flexible spatula or wooden spoon, gradually stir butter-flour mixture into milk mixture until combined. Using your hands, knead dough against sides of bowl or on a lightly-floured work surface until it comes together in a soft, but not sticky, ball. Cover dough with plastic wrap or a clean kitchen towel and rest for 10 minutes. (Alternatively, shape dough into a flat, round disk, wrap tightly in plastic wrap, and refrigerate for up to 2 days or freeze for up to 6 months; bring to room temperature before rolling). "
+      },
+      {
+        "step_number": 4,
+        "instruction": "On a lightly-floured work surface, divide dough into 4 equal portions (about 195g each), and shape each into a ball. Working with one ball of dough at a time, roll out dough to form a 5-inch circle about 1/4 inch thick, adding more flour as needed underneath and on top of dough to prevent sticking. Using a sharp knife or pizza wheel, cut dough into 1/2-inch-wide diamonds, dipping the wheel or knife in flour as needed to keep dough from sticking. Transfer dough pieces to a lightly floured rimmed baking sheet, dust with flour, and gently toss to prevent sticking. Repeat with remaining dough balls.            "
+      },
+      {
+        "step_number": 5,
+        "instruction": "Line a large strainer with paper towels. In a wok or large Dutch oven, heat oil over medium-high heat to 360F (180C). Divide the dough pieces into roughly 3 or 4 batches. Working with one batch of dough pieces at a time, add pieces to hot oil using a spider or slotted spoon and fry, turning pieces as they cook, until golden brown on both sides, about 3 minutes. Transfer chin chin to prepared strainer. Serious Eats / Amanda Suarez"
+      },
+      {
+        "step_number": 6,
+        "instruction": "Return oil to 360F (180C) and repeat frying with remaining batches of dough. Transfer chin chin to a serving bowl and serve warm or let cool completely, about 15 to 20 minutes. "
+      }
+    ],
+    "image": "https://www.seriouseats.com/thmb/djGjGVNbXyMb6r_Rm8qfj4yctMM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220822-ChinChinMaureen-Celestine-20_1-00ad72b42c61430cb47dc958671a395f.JPG",
+    "special_equipment": "Box grater, pizza wheel (optional), wok or large Dutch oven",
+    "nutrition": {
+      "calories": "307 Calories",
+      "fat": "21g  Fat",
+      "carbs": "28g  Carbs",
+      "protein": "3g  Protein"
+    }
+  },
+  {
+    "recipe_name": "Nigerian Eba",
+    "author": "Ozoz Sokoh",
+    "description": "A popular swallow made with cassava meal and served with soups and stews. ",
+    "servings": 4,
+    "prep_time": null,
+    "cook_time": "10 mins",
+    "marinating_time": null,
+    "total_time": "10 mins",
+    "url": "https://www.seriouseats.com/nigerian-eba-5270376",
+    "categories": [
+      "Nigerian"
+    ],
+    "ingredients": [
+      {
+        "name": "3 cups (750ml) boiling water",
+        "category": "liquid"
+      },
+      {
+        "name": "2 cups (250g; 8.8 ounces) white or yellow garri (see note)",
+        "category": "grain"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Pour boiling water into a large heatproof bowl. Evenly sprinkle garri all over the surface and let stand until water is absorbed, no dry garri remains, and mixture has thickened, about 5 minutes.            "
+      },
+      {
+        "step_number": 2,
+        "instruction": "Using a wooden spoon or sturdy silicone spatula, stir mixture until a cohesive dough forms; the dough should be dense and somewhat heavy, yet slightly sticky and easy to scoop (see note below for troubleshooting).            "
+      },
+      {
+        "step_number": 3,
+        "instruction": "To serve, scoop 1/2cup (115g) portions onto individual plates or bowls. Serve eba immediately with Nigerian soups or stews, such as egusi. (Alternatively, to make quenelles, scoop 1/2 cup portions of eba into a small bowl that has been wetted with water. Gently rock bowl side-to-side until a smooth, oblong shape forms; transfer to a plate or bowl. Repeat with remaining dough).            "
+      }
+    ],
+    "image": "https://www.seriouseats.com/thmb/Yuy4kFnMrFevjzU-popJw5MDtZ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220425-Eba-Maureen-Celestine-16-Step3-1-8cbf0f408804485e9a14a158a32b06c3.JPG",
+    "special_equipment": null,
+    "nutrition": {
+      "calories": "149 Calories",
+      "fat": "0g  Fat",
+      "carbs": "35g  Carbs",
+      "protein": "3g  Protein"
+    }
+  },
+  {
+    "recipe_name": "Obe Ata (Nigerian Red Pepper Sauce) Recipe",
+    "author": "Jenny Dorsey",
+    "description": "This versatile recipe delivers a flavorful red pepper tomato sauce for a stew or dip.",
+    "servings": 32,
+    "prep_time": null,
+    "cook_time": null,
+    "marinating_time": null,
+    "total_time": "3 hrs",
+    "url": "https://www.seriouseats.com/obe-ata-nigerian-red-pepper-sauce",
+    "categories": [
+      "Nigerian"
+    ],
+    "ingredients": [
+      {
+        "name": "8 red bell peppers (about 4 1/2 pounds; 2kg), stemmed, cored, and cut into roughly 1/2-inch dice",
+        "category": "herb_spice"
+      },
+      {
+        "name": "9 tablespoons (135ml) red palm oil, divided",
+        "category": "oil"
+      },
+      {
+        "name": "Kosher salt",
+        "category": "herb_spice"
+      },
+      {
+        "name": "12 medium cloves garlic (about 1 head), roughly chopped",
+        "category": "herb_spice"
+      },
+      {
+        "name": "6 large plum tomatoes (about 1 3/4 pounds; 800g), cored and quartered",
+        "category": "vegetable"
+      },
+      {
+        "name": "4 Fresno chile peppers (about 2 ounces; 55g), stemmed, seeded, and cut into roughly 1/2-inch dice (see notes)",
+        "category": "herb_spice"
+      },
+      {
+        "name": "4 habanero or Scotch bonnet peppers (about 1 ounce; 30g), stemmed, seeded, and cut into roughly 1/2-inch dice (see notes)",
+        "category": "herb_spice"
+      },
+      {
+        "name": "2 large red onions (about 1 3/4 pounds; 800g), peeled and cut into roughly 1/2-inch dice",
+        "category": "vegetable"
+      },
+      {
+        "name": "One 2-inch segment peeled fresh ginger (about 3/4 ounce; 20g), roughly chopped",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 quart (1L) homemade chicken stock or store-bought, low-sodium broth, or vegetable stock",
+        "category": "protein"
+      },
+      {
+        "name": "9 tablespoons (135ml) canola or other neutral oil",
+        "category": "oil"
+      },
+      {
+        "name": "1/2 teaspoon Nigerian curry powder, such as Lion's Brand, or more to taste (optional, see notes)",
+        "category": "herb_spice"
+      },
+      {
+        "name": "Ground Cameroon pepper, to taste (see notes)",
+        "category": "herb_spice"
+      },
+      {
+        "name": "4 pounds (1.8kg) cooked bone-in chicken (optional)",
+        "category": "protein"
+      },
+      {
+        "name": "Torn fresh basil leaves, for garnish (optional)",
+        "category": "herb_spice"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Preheat oven to 400F (200C) and set oven racks in the top- and bottom-third positions. Line two rimmed baking sheets with parchment paper."
+      },
+      {
+        "step_number": 2,
+        "instruction": "In a large bowl, toss red bell peppers with 2 tablespoons (30ml) palm oil. Season with salt. Transfer in an even layer to one of the rimmed baking sheets. In the same large bowl, toss garlic, tomato, Fresno chile, habanero, onion, and ginger with 4 tablespoons (60ml) palm oil. Season with salt. Transfer in an even layer to the other rimmed baking sheet."
+      },
+      {
+        "step_number": 3,
+        "instruction": "Roast the vegetables, stirring and rotating baking sheets once or twice during cooking, until all are tender, some of their juices have cooked off, and they are charred in spots, about 45 minutes for the red bell peppers and 30 minutes for the tomatoes, chiles, and onions."
+      },
+      {
+        "step_number": 4,
+        "instruction": "Scrape all of the roasted vegetables into a blender jar and blend until either a chunky or smooth purée forms (the consistency of your obe ata is up to you; we like a smoother sauce for when it is used for stews and a chunkier one when it is used as a dip or condiment)."
+      },
+      {
+        "step_number": 5,
+        "instruction": "Transfer vegetable purée to a Dutch oven. Stir in chicken stock, remaining 3 tablespoons (45ml) palm oil, canola oil, curry powder, and Cameroon pepper. Bring to a simmer. Season lightly with salt, then simmer until sauce is reduced to a good stew-like thickness that can coat pieces of meat well, about 1 hour. If desired, season with additional curry powder and/or Cameroon pepper to meet your desired flavor and spice level."
+      },
+      {
+        "step_number": 6,
+        "instruction": "If serving with chicken, add cooked chicken to the Dutch oven and simmer until chicken is warmed through, about 15 minutes. Serve with warm rice and garnish with torn basil leaves, if desired."
+      },
+      {
+        "step_number": 7,
+        "instruction": "Alternatively, you can continue to cook down the sauce until it thickens to a dip-like consistency, about 3 hours; the oils will break from the sauce in this time and fry the vegetable purée, deepening its flavor further."
+      }
+    ],
+    "image": "https://www.seriouseats.com/thmb/zO5qobwKewdVMul9U2vxXL3Tupc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2020__02__20200224-obe-ata-vicky-wasik-23-48ef3dfb1176452f99d4a0c6fbed3e16.jpg",
+    "special_equipment": "Dutch oven, blender",
+    "nutrition": {
+      "calories": "101 Calories",
+      "fat": "8g  Fat",
+      "carbs": "8g  Carbs",
+      "protein": "1g  Protein"
+    }
+  },
+  {
+    "recipe_name": "Moin Moin (Nigerian Steamed Bean Cake)",
+    "author": "Ozoz Sokoh",
+    "description": "A tender cake of black-eyed peas that can be steamed in ramekins or packages formed out of sturdy moin moin leaves. ",
+    "servings": 4,
+    "prep_time": "30 mins",
+    "cook_time": "30 mins",
+    "marinating_time": "55 mins",
+    "total_time": "115 mins",
+    "url": "https://www.seriouseats.com/moin-moin-nigerian-steamed-bean-cake-7091498",
+    "categories": [
+      "Nigerian"
+    ],
+    "ingredients": [
+      {
+        "name": "1 cup dried black eyed peas (6 3/4 ounces; 190g), picked of any debris and rinsed",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1/4 large red onion (about 2 1/2 ounces; 75g), roughly chopped",
+        "category": "vegetable"
+      },
+      {
+        "name": "1 small red bell pepper (2 1/2 ounces; 64g)",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 cup (235ml) homemade or store-bought chicken, beef, or vegetable stock",
+        "category": "protein"
+      },
+      {
+        "name": "2 teaspoons (6g) Diamond Crystal kosher salt; for table salt use half as much by volume or the same weight",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1/2 to 1 fresh habanero or Scotch bonnet pepper, stemmed (optional)",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1/4 cup (60ml) vegetable oil, plus extra for greasing ramekins if using",
+        "category": "oil"
+      },
+      {
+        "name": "14 moin moin leaves, washed and dried, plus extra for steaming (see note)",
+        "category": "herb_spice"
+      },
+      {
+        "name": "2 large hard-boiled eggs, peeled and quartered lengthwise",
+        "category": "protein"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "In a medium bowl, cover black-eyed peas with 2 inches water. Let soak at room temperature for at least 15 minutes and up to 1 hour (this short soaking time helps loosen the skins without overly softening the peas). "
+      },
+      {
+        "step_number": 2,
+        "instruction": "Drain peas then transfer to a countertop blender or food processor along with 1 quart (945ml) water. Pulse to slightly break up peas, about ten 1-second pulses. Pour into a medium bowl and let stand at room temperature for up to 30 minutes (skins will float to top as they separate from the peas).            "
+      },
+      {
+        "step_number": 3,
+        "instruction": "Set a colander over a large bowl. Slowly pour soaking water into the colander while using a free hand to keep the peas in the soaking bowl; the goal is to pour off as much of the floating skins as possible while leaving the peas behind. Pick out any peas that landed in the colander and return them to the bowl, then discard skins and soaking water. Cover peas with water, and repeat process until peas are nearly free of skins (you may need to gently massage the peas with your hands to separate any stubborn skins).            "
+      },
+      {
+        "step_number": 4,
+        "instruction": "Transfer skinned peas to the bowl. Add 2 cups (475ml) water and let stand at room temperature for 10 minutes (this will further soften the peas for blending).            "
+      },
+      {
+        "step_number": 5,
+        "instruction": "Drain peas then transfer to a countertop blender or food processor. Add onion, bell pepper, stock, salt, and habanero or Scotch bonnet pepper (if using). Blend, scraping down sides occasionally with a flexible spatula, until a smooth purée has formed, about 3 to 4 minutes (if you rub the purée between your fingers, you shouldn't see any recognizable pea chunks). Transfer purée to a large bowl, add oil, and whisk until well combined.            "
+      },
+      {
+        "step_number": 6,
+        "instruction": "To Make Moin Moin in Leaves: Using a sharp knife, trim stalks from bottom of moin moin leaves. Arrange stalks in an even layer at the bottom of a large pot. Alternatively, skip the stalks and place a steaming rack instead. Cover with 2 leaves, to form a bed for steaming. Fill pot with 1/2 inch of hot water, or just to the top of the rack and set aside.            "
+      },
+      {
+        "step_number": 7,
+        "instruction": "In one hand, hold a moin moin leaf vertically with the shiny side up. Set a second leaf on top of the first so that the base of their midribs meet and the second leaf is angled a little less than 45 degrees from the first leaf (it should look like the leaves are the hands of a clock, joined at their base with the first leaf pointing to 12 o'clock and the second leaf pointing to just past 1 o'clock).            "
+      },
+      {
+        "step_number": 8,
+        "instruction": "Using both hands and starting from the first leaf, roll the leaves to form a cone with the base of the midribs at the bottom point and open at the top. Fold the bottom 2 inches of the cone back and up to seal the base.            "
+      },
+      {
+        "step_number": 9,
+        "instruction": "Holding the cone with its open top facing up (and securing the folded bottom with one hand), spoon 1/2 cup (115g) moin moin purée into cone. Set an egg quarter in the center of the purée, then cover with 1/4 cup (58g) purée.            "
+      },
+      {
+        "step_number": 10,
+        "instruction": "To close the cone, use your fingers to push a section at the top of the leaf cone in so it lays flat against the surface of the purée, then fold a second adjacent leaf section in over the first one. Fold the remaining excess leaf back and down so it meets the folded-up point at the base (they may not touch, or they may overlap, depending on the size of the leaves). Set the sealed leaf cone down on the bed of stems in the pot with the tucked-in ends on the underside to hold them in place (you may need to stack the cones on top of one another). Repeat with remaining leaves and purée; you should have 7 filled moin moin.            "
+      },
+      {
+        "step_number": 11,
+        "instruction": "Place 2 or 3 additional moin moin leaves on top of the cones, cover the pot, and bring to a boil over high heat. Reduce heat to medium and steam until the leaves go from bright to dull green and moin moin is aromatic, about 40 minutes. Alternatively, a cake tester or skewer inserted into the thickest part of the moin moin should come out dry. Be sure to check water level every 10 to 15 minutes, topping up with more boiling water from the sides as needed to keep the pot from going dry. Transfer cooked moin moin to a wire rack and let cool for 10 minutes to allow the moin moin to firm up.            "
+      },
+      {
+        "step_number": 12,
+        "instruction": "To Make Moin Moin in Ramekins: Lightly grease the interiors of 7 4-ounce ramekins with oil. Spoon purée into prepared ramekins until each is half full. Place an egg quarter, cut-side up, in the center of each ramekin, then cover with remaining purée until ramekins are about three-quarters full (the purée will rise as it cooks).            "
+      },
+      {
+        "step_number": 13,
+        "instruction": "Fill a large pot with 4-inches water. Place steamer rack inside, position filled ramekins on top of rack, cover, and bring to a boil over high heat. Reduce heat to medium and cook until moin moin form domes on top, are firm to the touch, and spring back when pressed, about 30 minutes. Be sure to check water level occasionally, topping up with more boiling water from the sides as needed to keep the pot from going dry. Transfer ramekins to a wire rack and let cool for 10 minutes to allow the moin moin to firm up. "
+      },
+      {
+        "step_number": 14,
+        "instruction": "Serve in leaves or in ramekins; if you prefer to unmold the moin moin from ramekins, run a butter knife around the edges to loosen, set a serving plate on top, then flip right side up. Serve on its own, with salad, soaked garri, or sweetened oatmeal, or alongside jollof rice or Nigerian fried rice.            "
+      }
+    ],
+    "image": "https://www.seriouseats.com/thmb/FyrplS03gmSGkFlRtc5WuqMp5YY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20230111-Moin-Moin-Maureen-Celestine-hero-5c656cbc3b684be1b1f29414f2bdc29c.JPG",
+    "special_equipment": "Countertop blender or food processor, seven 4-ounce ramekins (optional), steaming rack (optional)",
+    "nutrition": {
+      "calories": "228 Calories",
+      "fat": "11g  Fat",
+      "carbs": "23g  Carbs",
+      "protein": "10g  Protein"
+    }
+  },
+  {
+    "recipe_name": "Ewa Riro (Nigerian Stewed Beans)",
+    "author": "Ozoz Sokoh",
+    "description": "You'll never go back to baked.",
+    "servings": 4,
+    "prep_time": "10 mins",
+    "cook_time": "110 mins",
+    "marinating_time": "4 hrs",
+    "total_time": "6 hrs",
+    "url": "https://www.seriouseats.com/ewa-riro-nigerian-stewed-beans-recipe-8594156",
+    "categories": [
+      "Braised & Stewed Beans",
+      "Nigerian"
+    ],
+    "ingredients": [
+      {
+        "name": "1 pound (454g) dried black-eyed peas, picked over and rinsed",
+        "category": "herb_spice"
+      },
+      {
+        "name": "Kosher salt",
+        "category": "herb_spice"
+      },
+      {
+        "name": "2 small red onions (about 8 ounces; 226g), 1/2 onion thinly sliced and the remaining 1 1/2 onions roughly chopped",
+        "category": "vegetable"
+      },
+      {
+        "name": "2 medium red bell peppers or 2 red shepherd peppers (7 ounces; 200g), stemmed, seeded, and roughly chopped (see note)",
+        "category": "herb_spice"
+      },
+      {
+        "name": "2 plum tomatoes (about 10 ounces; 300g), cored and roughly chopped",
+        "category": "vegetable"
+      },
+      {
+        "name": "3/4 cup (180ml) unrefined red palm oil",
+        "category": "oil"
+      },
+      {
+        "name": "2/3 cup (60g) ground crayfish, divided (optional, see notes)",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 Scotch bonnet or habanero pepper, left whole and poked all over with a skewer or toothpick for a less spicy result, or stemmed, seeded, and minced for a more spicy result",
+        "category": "herb_spice"
+      },
+      {
+        "name": "Nigerian red dry pepper, to taste (optional, see notes)",
+        "category": "herb_spice"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "In a large pot, cover beans with cold water by at least 2 inches. Cover and leave to soak for at least 4 and up to 12 hours.            "
+      },
+      {
+        "step_number": 2,
+        "instruction": "Drain the beans, then rinse with cold water. Return to pot, top with at least 2 inches of fresh cold water, and stir in 2 tablespoons kosher salt. Bring to a boil over high heat. Reduce heat to low and simmer until beans are soft enough to squish between your fingers but still retain their shape, about 1 hour (note that cooking times can vary depending on age and source of beans); top up with additional boiling water at any point if level gets too low. Drain beans, reserving the cooking liquid, and set aside.            "
+      },
+      {
+        "step_number": 3,
+        "instruction": "Meanwhile, in a blender or food processor, process the roughly chopped onions, shepherd or bell peppers, tomatoes, and 1/2 cup (120ml) water on high until a smooth puree forms, stopping to scrape down sides as necessary. Set vegetable purée aside.            "
+      },
+      {
+        "step_number": 4,
+        "instruction": "In a large heavy-bottomed pan, heat palm oil over medium to high heat until lightly smoking and fragrant. Add thinly sliced onion, season generously with salt, and cook, stirring often, until onion is softened but not browned, about 3 minutes. Stir in 1/3 cup ground crayfish, if using, and continue to cook, stirring, until aromatic and the crayfish fries slightly, 2 to 3 minutes.            Serious Eat / Maureen Celestine"
+      },
+      {
+        "step_number": 5,
+        "instruction": "Add Scotch bonnet or habanero pepper (if using whole, add the entire pepper; if using minced, start with 1/4 teaspoon, then add more to taste). Continue to cook, stirring often, until chile pepper has softened slightly, 2 to 3 minutes."
+      },
+      {
+        "step_number": 6,
+        "instruction": "Stir in reserved vegetable purée, then increase heat to high and bring to a boil, stirring occasionally. Reduce heat to medium, partially cover, and continue to cook, stirring occasionally, until thickened slightly and a light web of oil droplets form on the surface, about 10 minutes.            "
+      },
+      {
+        "step_number": 7,
+        "instruction": "Stir in cooked beans and the remaining 1/3 cup ground crayfish, if using; cover, reduce heat to low and simmer for 10 minutes to allow the flavors to meld. Season with salt and red dry pepper, if desired.            "
+      },
+      {
+        "step_number": 8,
+        "instruction": "At this point, you can either continue to the next step, or, if a thicker texture is desired, use a wooden spoon to mash some of the beans against the side of the pot or an immersion blender to purée a portion of the beans; how much you mash or purée, if it all, will determine how creamy the final dish is.            "
+      },
+      {
+        "step_number": 9,
+        "instruction": "Continue to cook, covered, stirring and scraping the bottom every once or twice to prevent scorching, until the stew thickens some more and begins to dry at the bottom, about 20 minutes. (If you prefer the beans looser, either don't cook for as long or stir in some of the reserved bean liquid in 1/4 cup increments until you reach your desired consistency). Remove from heat and let stand to allow flavors to develop, about 10 minutes, then serve.            "
+      }
+    ],
+    "image": "https://www.seriouseats.com/thmb/A1i7yOZZ70_E5hHrwtxb3hiED1w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20240223-SEA-Ewa-Riro-MaureenCelestine-hero-c52b1a2b256449f18adab4f27a20c36f.jpg",
+    "special_equipment": "Food processor or countertop blender",
+    "nutrition": {
+      "calories": "541 Calories",
+      "fat": "29g  Fat",
+      "carbs": "53g  Carbs",
+      "protein": "21g  Protein"
+    }
+  },
+  {
+    "recipe_name": "Nigerian Meat Pie",
+    "author": "Ozoz Sokoh",
+    "description": "Minced beef, onions, carrots, and potatoes in a curry-spiced sauce.",
+    "servings": 6,
+    "prep_time": "2 hrs",
+    "cook_time": "60 mins",
+    "marinating_time": null,
+    "total_time": "3 hrs",
+    "url": "https://www.seriouseats.com/nigerian-meat-pies-recipe-6385727",
+    "categories": [
+      "Ground Beef",
+      "Nigerian"
+    ],
+    "ingredients": [
+      {
+        "name": "1 tablespoon (8g) cornstarch",
+        "category": "starch"
+      },
+      {
+        "name": "1/2 cup (120ml) water",
+        "category": "liquid"
+      },
+      {
+        "name": "3 tablespoons (45ml) vegetable or other neutral cooking oil, divided",
+        "category": "oil"
+      },
+      {
+        "name": "8.8 ounces (250g) ground beef, at least 20% fat",
+        "category": "herb_spice"
+      },
+      {
+        "name": "Kosher salt",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1/2 small yellow onion (1.7 ounces; 50g), finely diced",
+        "category": "vegetable"
+      },
+      {
+        "name": "2 small Yukon gold or yellow potatoes (4.2 ounces; 120g total), peeled and cut into 1/2-inch dice",
+        "category": "vegetable"
+      },
+      {
+        "name": "1 small carrot (2.6 ounces; 75g), peeled and cut into 1/4-inch dice",
+        "category": "vegetable"
+      },
+      {
+        "name": "1 teaspoon Nigerian-style curry powder (see note)",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 teaspoon dried thyme",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 cup (235ml) Nigerian-style stock or water",
+        "category": "protein"
+      },
+      {
+        "name": "1/2 small green bell pepper (1.7 ounces; 50g), stemmed, seeded, and finely chopped, divided",
+        "category": "herb_spice"
+      },
+      {
+        "name": "Freshly ground black pepper",
+        "category": "herb_spice"
+      },
+      {
+        "name": "5.6 ounces all-purpose flour (160g; 1 1/4 cups)",
+        "category": "grain"
+      },
+      {
+        "name": "1 ounce whole wheat flour (30g; 1/4 cup)",
+        "category": "grain"
+      },
+      {
+        "name": "1 teaspoon (3g) Diamond Crystal kosher salt; for table salt, use half as much by volume or the same weight",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1/2 teaspoon baking powder",
+        "category": "leavening_agent"
+      },
+      {
+        "name": "3.1 ounces unsalted butter (90g; 6 tablespoons), cold",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 large egg (1 1/4 ounces; 50g), lightly beaten",
+        "category": "protein"
+      },
+      {
+        "name": "1/4 cup (60ml) ice-cold water, plus more as needed",
+        "category": "liquid"
+      },
+      {
+        "name": "1 large egg yolk (15g) lightly beaten with 1 tablespoon (15ml) milk (any fat percentage)",
+        "category": "protein"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "For the Beef Filling: In a small bowl, whisk cornstarch with 1/2 cup (120ml) water until well combined and set aside.            "
+      },
+      {
+        "step_number": 2,
+        "instruction": "In a 10-inch cast iron or stainless-steel skillet, heat 1 tablespoon oil over medium heat until shimmering. Add ground beef, season lightly with salt, and cook, stirring and breaking up chunks of meat, until beef is no longer pink, about 5 minutes. Transfer to medium heatproof bowl and set aside.            "
+      },
+      {
+        "step_number": 3,
+        "instruction": "Add remaining oil to now-empty skillet and continue to heat on medium until shimmering. Add onion, potatoes, and carrot, season with salt, and cook, stirring occasionally, until just beginning to soften, about 4 minutes. Add curry powder and thyme and cook, stirring frequently, until fragrant, about 2 minutes.            "
+      },
+      {
+        "step_number": 4,
+        "instruction": "Add cooked beef along with the stock or water, cover, and bring to a boil. Reduce heat to maintain a simmer and cook, stirring once or twice, until vegetables are softened, 12 to 15 minutes.            "
+      },
+      {
+        "step_number": 5,
+        "instruction": "Stir in half of the green bell pepper and cook until just softened, about 2 minutes. Stir cornstarch slurry to redistribute the starch, then stir into the beef mixture. Bring to a simmer and cook, stirring occasionally, until beef and vegetables are coated in a thickened sauce, about 5 minutes. Stir in remaining green bell pepper and season with salt and pepper to taste. Transfer to medium heatproof bowl and set aside to cool, about 30 minutes (filling can be refrigerated in an airtight container for up to 3 days).            "
+      },
+      {
+        "step_number": 6,
+        "instruction": "For the Dough: Meanwhile, in a large bowl, whisk together all-purpose flour, whole wheat flour, salt, and baking powder until thoroughly combined.            "
+      },
+      {
+        "step_number": 7,
+        "instruction": "Using the large holes of a box grater, grate butter over flour mixture. Using your hands, toss grated butter with flour mixture until butter is evenly distributed. "
+      },
+      {
+        "step_number": 8,
+        "instruction": "Make a 4-inch wide well in the center of the butter-flour mixture. Whisk beaten egg and ice-cold water together until combined. Pour egg mixture into well, then, using a flexible spatula, gradually stir butter-flour mixture into egg mixture until a cohesive dough forms with visible bits of butter. If dough is too dry, add additional water, 1 tablespoon at a time, until dough comes together. Shape dough into a flat, round disk, wrap tightly in plastic wrap, and refrigerate for at least 30 minutes or up to 2 days.            "
+      },
+      {
+        "step_number": 9,
+        "instruction": "Set dough disk on a generously floured work surface. Portion into 6 equal-sized balls (2 1/3 ounces; 65g each). Using a rolling pin and adding more flour as needed underneath and on top of dough to prevent sticking, roll out each ball into a 6-inch circle about 1/8 inch thick. Transfer rounds to a lightly-floured rimmed baking sheet and cover loosely with plastic wrap to prevent dough rounds from drying out.            "
+      },
+      {
+        "step_number": 10,
+        "instruction": "To Assemble and Bake: Line a rimmed baking sheet with parchment paper. Working with one dough round at a time, set on a lightly-floured work surface and add 1/2 cup (3 1/2 ounces; 98g) of beef filling to bottom half of the round, leaving a 1/2-inch border along the edge. Fold top half over the filling to form a semicircle, then press down gently around the edge to seal. Using the back tines of a fork, press down firmly around the edge to ensure meat pie is well sealed. Transfer to a prepared baking sheet and cover loosely with plastic wrap. Repeat the process with remaining dough rounds and filling. Cover loosely and refrigerate at least 30 minutes and up to 2 hours.            "
+      },
+      {
+        "step_number": 11,
+        "instruction": "Twenty minutes before baking, adjust oven rack to middle position and preheat to 400F (205C). When ready to bake, brush surface of pies with egg wash. Poke pies all over with a fork, 5 to 6 times each. Bake meat pies, rotating tray halfway through, until golden brown on all sides, about 25 minutes. Let cool for 10 minutes.            "
+      },
+      {
+        "step_number": 12,
+        "instruction": "Transfer meat pies to a serving platter and serve warm or at room temperature. "
+      }
+    ],
+    "image": "https://www.seriouseats.com/thmb/6WtZPDObqnVHk0liWtMjstUlXOY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220809-NigerianMeatpies-MaureenCelestine-Hero-c202154e35df41c08d8f1de79e790dd7.JPG",
+    "special_equipment": null,
+    "nutrition": {
+      "calories": "436 Calories",
+      "fat": "28g  Fat",
+      "carbs": "32g  Carbs",
+      "protein": "15g  Protein"
+    }
+  },
+  {
+    "recipe_name": "Efo Riro (Nigerian Stewed Greens)",
+    "author": "Ozoz Sokoh",
+    "description": "A flavorful stew of silky amaranth leaves and tender cubes of beef, seasoned with ground crayfish. ",
+    "servings": 4,
+    "prep_time": "15 mins",
+    "cook_time": "105 mins",
+    "marinating_time": null,
+    "total_time": "2 hrs",
+    "url": "https://www.seriouseats.com/efo-riro-nigerian-stewed-greens-7091461",
+    "categories": [
+      "Nigerian"
+    ],
+    "ingredients": [
+      {
+        "name": "1/2 pound (225g) bone-in or boneless beef chuck roast, cut into 2-inch pieces",
+        "category": "protein"
+      },
+      {
+        "name": "1 small red onion (about 3 ounces; 80g), thinly sliced",
+        "category": "vegetable"
+      },
+      {
+        "name": "1 tablespoon ground crayfish (see note)",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 teaspoon (3g) Diamond Crystal kosher salt; for table salt use half as much by volume or the same weight",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1/4 teaspoon Nigerian red dry pepper",
+        "category": "herb_spice"
+      },
+      {
+        "name": "2 pounds (905g) fresh cockscomb amaranth or spinach, washed well of any sand or grit (see note)",
+        "category": "herb_spice"
+      },
+      {
+        "name": "2 medium red onions (8 1/2 ounces; 250g), half thinly sliced and half roughly chopped, divided",
+        "category": "vegetable"
+      },
+      {
+        "name": "2 large plum tomatoes (10 1/2 ounces; 300g total), cored, half a tomato thinly sliced crosswise and the rest roughly chopped, divided",
+        "category": "vegetable"
+      },
+      {
+        "name": "2 red bell peppers (14 ounces; 400g total), stemmed, halved, seeded, and roughly chopped",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1/3 cup (80ml) unrefined red palm oil, such as Obiji",
+        "category": "oil"
+      },
+      {
+        "name": "Kosher salt",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 tablespoon ground crayfish (see note)",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1 to 2 teaspoons iru (also sold as fermented locust beans or dawadawa), optional (see note)",
+        "category": "herb_spice"
+      },
+      {
+        "name": "1/4 to 1 fresh Scotch bonnet or habanero pepper, stemmed, seeded (if desired), and finely chopped",
+        "category": "herb_spice"
+      },
+      {
+        "name": "Nigerian red dry pepper, to taste",
+        "category": "herb_spice"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "For the Beef: In a medium pot, combine beef, onion, crayfish, salt, dry pepper, and 3 cups (710ml) water and bring to a boil. Lower heat to maintain a simmer, cover, and cook until beef is tender, about 1 hour. Using a slotted spoon, remove beef and transfer to a medium heatproof bowl and set aside. Reserve stock (you should have about 1 cup; see note).            "
+      },
+      {
+        "step_number": 2,
+        "instruction": "For the Efo Riro: Prepare an ice bath in a large bowl. In a medium or large pot of salted boiling water, cook amaranth or spinach until tender, 1 to 2 minutes. Immediately transfer to prepared ice bath to cool.            "
+      },
+      {
+        "step_number": 3,
+        "instruction": "Set a fine-mesh strainer over a large bowl. Transfer amaranth to strainer and squeeze to remove excess moisture; discard liquid. Transfer amaranth to a work surface and finely chop; set aside. "
+      },
+      {
+        "step_number": 4,
+        "instruction": "In a blender, pulse roughly chopped onion, roughly chopped tomatoes, bell peppers, and 1/2 cup (120ml) reserved beef stock until a thick coarse purée forms, 3 to 4 1-second pulses. Set aside.            "
+      },
+      {
+        "step_number": 5,
+        "instruction": "In a wok or 10-inch skillet or sauté pan, heat palm oil over low heat until smoking and fragrant, about 2 minutes. Add sliced onion, season lightly with salt, and cook, stirring often, until onion is softened but not browned, about 3 minutes. Add sliced tomatoes, ground crayfish, and iru (if using), and cook until tomatoes are softened but still holding their shape, 2 to 3 minutes. Stir in fresh pepper, a 1/4 teaspoon at a time, until desired spice level is reached. Continue to cook, stirring often, until pepper has softened slightly, 2 to 3 minutes.            "
+      },
+      {
+        "step_number": 6,
+        "instruction": "Add reserved vegetable purée, increase heat to high, and cook, stirring occasionally, until hot, about 4 minutes. Stir in reserved beef, reduce heat to medium heat, partially cover, and cook, stirring often, until stew is slightly reduced and thickened and oil pools around the sides and on top, about 10 minutes.            "
+      },
+      {
+        "step_number": 7,
+        "instruction": "Stir in chopped amaranth, cover, and cook until greens are heated through, 2 to 3 minutes. Season with salt and dry pepper to taste. (If you prefer a looser stew, stir in reserved beef stock in 1/4 cup increments to reach desired consistency). Remove from heat and let stand to allow flavors to develop, about 10 minutes.            "
+      },
+      {
+        "step_number": 8,
+        "instruction": "To serve, divide stew among warmed individual bowls or serve family-style in one large bowl. Serve with eba, fufu, Nigerian beef stew or obe ata, rice, and boiled yams, sweet potatoes, or plantains. "
+      }
+    ],
+    "image": "https://www.seriouseats.com/thmb/xEK8ZVj7fZwPB7CVbuVecjf2mXg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20230111-Efo-Riro-Maureen-Celestine-hero-74fc1b414bbe444ab351d62ed0d32b9b.jpg",
+    "special_equipment": "blender, wok or 10-inch skillet or sauté pan",
+    "nutrition": {
+      "calories": "264 Calories",
+      "fat": "17g  Fat",
+      "carbs": "18g  Carbs",
+      "protein": "14g  Protein"
+    }
+  }
+]

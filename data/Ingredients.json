@@ -1,0 +1,266 @@
+[
+    {
+        "name": "beef",
+        "category": "protein"
+    },
+    {
+        "name": "cloves",
+        "category": "herb_spice"
+    },
+    {
+        "name": "grains of selim",
+        "category": "herb_spice"
+    },
+    {
+        "name": "crayfish",
+        "category": "protein"
+    },
+    {
+        "name": "crayfish powder",
+        "category": "herb_spice"
+    },
+    {
+        "name": "salt",
+        "category": "herb_spice"
+    },
+    {
+        "name": "dry pepper",
+        "category": "herb_spice"
+    },
+    {
+        "name": "amaranth",
+        "category": "vegetable"
+    },
+    {
+        "name": "spinach",
+        "category": "vegetable"
+    },
+    {
+        "name": "tomato",
+        "category": "vegetable"
+    },
+    {
+        "name": "nutmeg",
+        "category": "herb_spice"
+    },
+    {
+        "name": "sugar",
+        "category": "sweetener"
+    },
+    {
+        "name": "palm oil",
+        "category": "oil"
+    },
+    {
+        "name": "iru",
+        "category": "herb_spice"
+    },
+    {
+        "name": "scotch bonnet pepper",
+        "category": "vegetable"
+    },
+    {
+        "name": "lemongrass",
+        "category": "vegetable"
+    },
+    {
+        "name": "yam",
+        "category": "vegetable"
+    },
+    {
+        "name": "cornstarch",
+        "category": "starch"
+    },
+    {
+        "name": "water",
+        "category": "liquid"
+    },
+    {
+        "name": "vegetable oil",
+        "category": "oil"
+    },
+    {
+        "name": "ground beef",
+        "category": "protein"
+    },
+    {
+        "name": "onion",
+        "category": "vegetable"
+    },
+    {
+        "name": "potato",
+        "category": "vegetable"
+    },
+    {
+        "name": "bok choy",
+        "category": "vegetable"
+    },
+    {
+        "name": "carrot",
+        "category": "vegetable"
+    },
+    {
+        "name": "curry powder",
+        "category": "herb_spice"
+    },
+    {
+        "name": "thyme",
+        "category": "herb_spice"
+    },
+    {
+        "name": "nigerian-style stock",
+        "category": "protein"
+    },
+    {
+        "name": "bell pepper",
+        "category": "vegetable"
+    },
+    {
+        "name": "black pepper",
+        "category": "herb_spice"
+    },
+    {
+        "name": "flour",
+        "category": "grain"
+    },
+    {
+        "name": "baking powder",
+        "category": "leavening_agent"
+    },
+    {
+        "name": "butter",
+        "category": "dairy"
+    },
+    {
+        "name": "egg",
+        "category": "protein"
+    },
+    {
+        "name": "peas",
+        "category": "legume"
+    },
+    {
+        "name": "urheri",
+        "category": "herb_spice"
+    },
+    {
+        "name": "erhe",
+        "category": "herb_spice"
+    },
+    {
+        "name": "gbafilo",
+        "category": "herb_spice"
+    },
+    {
+        "name": "umilo",
+        "category": "herb_spice"
+    },
+    {
+        "name": "uziza",
+        "category": "herb_spice"
+    },
+    {
+        "name": "chicken stock",
+        "category": "protein"
+    },
+    {
+        "name": "ginger",
+        "category": "vegetable"
+    },
+    {
+        "name": "garlic",
+        "category": "vegetable"
+    },
+    {
+        "name": "chicken",
+        "category": "protein"
+    },
+    {
+        "name": "habanero pepper",
+        "category": "vegetable"
+    },
+    {
+        "name": "bay leaves",
+        "category": "herb_spice"
+    },
+    {
+        "name": "groundnut",
+        "category": "nut"
+    },
+    {
+        "name": "paprika",
+        "category": "herb_spice"
+    },
+    {
+        "name": "plantain",
+        "category": "vegetable"
+    },
+    {
+        "name": "onion powder",
+        "category": "herb_spice"
+    },
+    {
+        "name": "garlic powder",
+        "category": "herb_spice"
+    },
+    {
+        "name": "cayenne pepper",
+        "category": "vegetable"
+    },
+    {
+        "name": "peanut oil",
+        "category": "oil"
+    },
+    {
+        "name": "lime",
+        "category": "fruit"
+    },
+    {
+        "name": "coriander leaves",
+        "category": "herb_spice"
+    },
+    {
+        "name": "peanuts",
+        "category": "nut"
+    },
+    {
+        "name": "moin moin leaves",
+        "category": "vegetable"
+    },
+    {
+        "name": "coconut oil",
+        "category": "oil"
+    },
+    {
+        "name": "scallion",
+        "category": "vegetable"
+    },
+    {
+        "name": "rice",
+        "category": "grain"
+    },
+    {
+        "name": "sweet corn",
+        "category": "vegetable"
+    },
+    {
+        "name": "coconut milk",
+        "category": "liquid"
+    },
+    {
+        "name": "tomato paste",
+        "category": "vegetable"
+    },
+    {
+        "name": "basil leaves",
+        "category": "herb_spice"
+    },
+    {
+        "name": "bread",
+        "category": "grain"
+    },
+    {
+        "name": "bitter leaf",
+        "category": "vegetable"
+    }
+]
