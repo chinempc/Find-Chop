@@ -1,0 +1,37 @@
+# dependencies
+find-chop-ui/node_modules
+find-chop-ui/.pnp
+find-chop-ui.pnp.js
+find-chop-ui/.yarn/install-state.gz
+
+# testing
+find-chop-ui/coverage
+
+# next.js
+find-chop-ui/.next/
+find-chop-ui/out/
+
+# production
+find-chop-ui/build
+
+# misc
+find-chop-ui/.DS_Store
+find-chop-ui/*.pem
+
+# debug
+find-chop-ui/npm-debug.log*
+find-chop-ui/yarn-debug.log*
+find-chop-ui/yarn-error.log*
+
+# local env files
+find-chop-ui/.env*
+
+# vercel
+find-chop-ui/.vercel
+
+# typescript
+find-chop-ui/*.tsbuildinfo
+find-chop-ui/next-env.d.ts
+
+find-chop-ui/src/components/laze.jsx
+
