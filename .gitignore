@@ -1,3 +1,5 @@
+# NEXTJS 
+
 # dependencies
 find-chop-ui/node_modules
 find-chop-ui/.pnp
@@ -33,5 +35,56 @@ find-chop-ui/.vercel
 find-chop-ui/*.tsbuildinfo
 find-chop-ui/next-env.d.ts
 
+# COMPONENTS
 find-chop-ui/src/components/laze.jsx
+
+# SPRING BOOT APIs
+
+Find-Chop-api/**/HELP.md
+Find-Chop-api/**/.gradle
+Find-Chop-api/**/build/
+Find-Chop-api/**/gradle/wrapper/gradle-wrapper.jar
+Find-Chop-api/**/src/main/**/build/
+Find-Chop-api/**/src/test/**/build/
+
+### STS ###
+Find-Chop-api/**/.apt_generated
+Find-Chop-api/**/.classpath
+Find-Chop-api/**/.factorypath
+Find-Chop-api/**/.project
+Find-Chop-api/**/.settings
+Find-Chop-api/**/.springBeans
+Find-Chop-api/**/.sts4-cache
+Find-Chop-api/**/bin/
+Find-Chop-api/**/src/main/**/bin/
+Find-Chop-api/**/src/test/**/bin/
+
+### IntelliJ IDEA ###
+Find-Chop-api/**/.idea
+Find-Chop-api/**/*.iws
+Find-Chop-api/**/*.iml
+Find-Chop-api/**/*.ipr
+Find-Chop-api/**/out/
+Find-Chop-api/**/src/main/**/out/
+Find-Chop-api/**/src/test/**/out/
+
+### NetBeans ###
+Find-Chop-api/**/nbproject/private/
+Find-Chop-api/**/nbbuild/
+Find-Chop-api/**/dist/
+Find-Chop-api/**/nbdist/
+Find-Chop-api/**/.nb-gradle/
+
+
+### ENV Variables ###
+Find-Chop-api/**/.env
+
+# Notes, Logs,
+Find-Chop-api/**/Notes.md
+Find-Chop-api/**/log*
+
+Find-Chop-api/**/.pass.txt.swp
+Find-Chop-api/**/create-docker-secrets.sh
+Find-Chop-api/**/docker-secrets-template.sh
+Find-Chop-api/**/redis.txt
 
