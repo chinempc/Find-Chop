@@ -83,7 +83,9 @@ Find-Chop-api/**/.env
 Find-Chop-api/**/Notes.md
 Find-Chop-api/**/log*
 
-Find-Chop-api/**/.pass.txt.swp
+Find-Chop-api/**/.pass.*
+Find-Chop-api/pass.txt
+Find-Chop-api/rabbitmq.conf
 Find-Chop-api/**/create-docker-secrets.sh
 Find-Chop-api/**/docker-secrets-template.sh
 Find-Chop-api/**/redis.txt
