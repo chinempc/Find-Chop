@@ -1,0 +1,12 @@
+spring:
+  jackson:
+    default-property-inclusion: non_null
+  data:
+    mongodb:
+      database: ${MONGO_DB_CLICK}
+      uri: ${MONGO_URI}
+springdoc:
+  swagger-ui:
+    path: /swagger
+server:
+  port: 8097

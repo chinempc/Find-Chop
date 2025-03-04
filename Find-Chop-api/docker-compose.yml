@@ -1,0 +1,158 @@
+version: '3.8'
+services:
+  rabbitmq:
+    image: rabbitmq:3-management
+    secrets:
+      - source: rabbit-user
+        target: default_user
+      - source: rabbit-password
+        target: default-pass
+    #environment:
+    #  - RABBITMQ_DEFAULT_USER_FILE=/run/secrets/rabbit-user
+    #  - RABBITMQ_DEFAULT_PASS_FILE=/run/secrets/rabbit-password
+    ports:
+      - "5672:5672" # RabbitMQ main port for messaging
+      - "15672:15672" # Management console
+    volumes:
+      - ./rabbitmq.conf:/etc/rabbitmq/rabbitmq.conf  # Mount config file from local path
+    networks:
+      - app-network
+    command: ["rabbitmq-server"]  # Simply start RabbitMQ with default command
+
+  redis:
+    image: redis:latest
+    ports:
+      - "6379:6379"  # Exposes Redis on port 6379
+    volumes:
+      - redis-data:/data  # Persistent data storage
+    networks:
+      - app-network
+
+  config-service:
+    image: test-config:1.0.3
+    #build:
+    #  context: ./Find-Chop-api-config-server
+    ports:
+      - "8888:8888"
+    secrets:
+      - rabbit-routing-key
+      - mongo-uri
+      - mongo-db-recipe
+      - mongo-db-click
+      - mongo-db-ingredient
+    environment:
+      RABBIT_ROUTING_KEY: /run/secrets/rabbit-routing-key
+      # Discovery-Server
+      #SPRING_PROFILES_ACTIVE: docker  # Optional: Use a Docker-specific profile if needed
+      EUREKA_INSTANCE_HOSTNAME: discovery-server  # Ensure Eureka can be found via the service name
+      EUREKA_CLIENT_SERVICEURL_DEFAULTZONE: "http://discovery-service:8761/eureka/"  # Eureka registry URL
+      # Recipe-Service
+      MONGO_URI: /run/secrets/mongo-uri
+      MONGO_DB_RECIPE: /run/secrets/mongo-db-recipe
+      # Click-Service
+      MONGO_DB_CLICK: /run/secrets/mongo-db-click
+      # Ingredient-Service
+      MONGO_DB_INGREDIENT: /run/secrets/mongo-db-ingredient
+      # Logs
+      #SPRING_OUTPUT_ANSI_ENABLED: ALWAYS
+      #LOGGING_LEVEL_ROOT: DEBUG
+      # Redis
+      REDIS_INSTANCE_HOSTNAME: redis
+    deploy:
+      restart_policy:
+        condition: on-failure
+        delay: 5s
+        max_attempts: 3
+    networks:
+      - app-network
+
+  discovery-server:
+    image: test-discovery:1.0.1
+    #build:
+    #  context: ./Find-Chop-api-discovery-service
+    ports:
+      - "8761:8761"
+    environment:
+      #SPRING_OUTPUT_ANSI_ENABLED: ALWAYS
+      #LOGGING_LEVEL_ROOT: DEBUG
+      SPRING_PROFILES_ACTIVE: native  # Use the native profile
+      SPRING_CONFIG_IMPORT: optional:configserver:http://config-service:8888
+    deploy:
+      restart_policy:
+        condition: on-failure
+        delay: 5s
+        max_attempts: 3
+    networks:
+      - app-network
+    depends_on:
+      - config-service
+  #diagnostic:
+  #  image: curlimages/curl
+  #  command: |
+  #    sh -c '
+  #    echo "Checking config-service..." &&
+  #    curl -v http://config-service:8888/actuator/health &&
+  #    echo "Checking discovery-server..." &&
+  #    curl -v http://discovery-server:8761/actuator/health'
+  #  networks:
+  #    - app-network
+  #  deploy:
+  #    restart_policy:
+  #      condition: none
+
+  recipe-service:
+    image: test-recipe:0.0.4
+    #build:
+    #  context: ./Recipe
+    ports:
+      - "8099:8099"
+    secrets:
+      - rabbit-routing-key
+      - mongo-uri
+      - mongo-db-recipe
+      - rabbit-user
+      - rabbit-password
+    environment:
+      - RABBIT_ROUTING_KEY=/run/secrets/rabbit-routing-key
+      - MONGO_URI=/run/secrets/mongo-uri
+      - MONGO_DB_RECIPE=/run/secrets/mongo-db-recipe
+      - RABBIT_USER=/run/secrets/rabbit-user
+      - RABBIT_PASS=/run/secrets/rabbit-password
+      - REDIS_INSTANCE_HOSTNAME=redis
+      - SPRING_CONFIG_IMPORT=optional:configserver:http://config-service:8888
+      - SPRING_PROFILES_ACTIVE=docker
+    deploy:
+      restart_policy:
+        condition: on-failure
+        delay: 5s
+        max_attempts: 3
+    networks:
+      - app-network
+    depends_on:
+      - discovery-server
+      - config-service
+
+
+volumes:
+  redis-data:
+    driver: local  # Using the default volume driver
+
+networks:
+  app-network:
+    driver: overlay
+
+secrets:
+  rabbit-password:
+    external: true
+  rabbit-user:
+    external: true
+  rabbit-routing-key:
+    external: true
+  mongo-uri:
+    external: true
+  mongo-db-recipe:
+    external: true
+  mongo-db-click:
+    external: true
+  mongo-db-ingredient:
+    external: true

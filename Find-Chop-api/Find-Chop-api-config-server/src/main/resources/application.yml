@@ -1,0 +1,14 @@
+spring:
+  profiles:
+    active: native
+  application:
+    name: Find-Chop-api-config-server
+  cloud:
+    config:
+      server:
+        native:
+          search-locations: classpath:/configurations
+server:
+  port: 8888
+
+#Find-Chop-api-config-server

@@ -1,0 +1,14 @@
+spring:
+  config:
+    import: optional:configserver:http://localhost:8888
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: ${REDIS_USER}
+    password: ${REDIS_PASSWORD}
+  application:
+    name: click-counter-service
+rabbitmq:
+  queueName: top-recipe
+  exchangeName: recipe-finder
+  routingKey: hQy&Ye,vNLhxc/rcxY&p%ha7(3k}M(

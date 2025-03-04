@@ -1,0 +1,16 @@
+eureka:
+  instance:
+    hostname: discovery-service
+  client:
+    service-url:
+      default-zone: ${EUREKA_CLIENT_SERVICEURL_DEFAULTZONE:http://discovery-service:8761/eureka/}
+name:
+  value: chinem-pc
+spring:
+  cloud:
+    config:
+      override-system-properties: false
+management:
+  tracing:
+    sampling:
+      probability: 1.0

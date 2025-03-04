@@ -1,0 +1,32 @@
+# Find-Chop Recipe API Dockerfile
+FROM gradle:8.12.0-jdk23-alpine AS build
+
+# Update Alpine Linux packages
+RUN apk update && \
+    apk upgrade && \
+    rm -rf /var/cache/apk/*
+
+COPY --chown=gradle:gradle . /home/gradle/src
+WORKDIR /home/gradle/src
+
+# Clean and build without running tests
+RUN gradle clean build -x test --no-daemon --scan
+#-------------------------------------------------
+FROM openjdk:23-jdk-slim
+
+# Update Debian-based packages and clean up
+RUN apt-get update && \
+    apt-get upgrade -y && \
+    apt-get clean && \
+    rm -rf /var/lib/apt/lists/*
+
+EXPOSE 8099
+
+RUN mkdir /app
+COPY --from=build /home/gradle/src/build/libs/*.jar /app/recipe-api.jar
+#COPY ./wait-for-services.sh /app/wait-for-services.sh
+#RUN ls /app/
+
+#RUN chmod +x /app/wait-for-services.sh
+
+ENTRYPOINT ["java", "-jar", "/app/recipe-api.jar"]

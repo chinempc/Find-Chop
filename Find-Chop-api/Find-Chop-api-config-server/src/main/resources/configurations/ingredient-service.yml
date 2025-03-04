@@ -1,0 +1,16 @@
+spring:
+  jackson:
+    default-property-inclusion: non_null
+  data:
+    mongodb:
+      database: ${MONGO_DB_INGREDIENT}
+      uri: ${MONGO_URI}
+springdoc:
+  swagger-ui:
+    path: /swagger
+rabbitmq:
+  queueName: top-recipe
+  exchangeName: recipe-finder
+  routingKey: ${RABBIT_ROUTING_KEY}
+server:
+  port: 8098
